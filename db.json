@@ -1,0 +1,754 @@
+{
+    "sliders": [
+        {
+            "id": 1,
+            "text": "Dossier (aka. everyone's favorite fragnance [inspired by] brand)...",
+            "brandimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/t/245/assets/teenvogue.svg"
+        },
+        {
+            "id": 2,
+            "text": "Dossier acts as an affordable alternative by creating scents...",
+            "brandimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/t/245/assets/insta.svg"
+        },
+        {
+            "id": 3,
+            "text": "Make your whole home smell like decadence by using this candle.",
+            "brandimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/t/245/assets/buzzfeed.svg"
+        },
+        {
+            "id": 4,
+            "text": "We've rounded up a selection of the loveliest fall-ready fragrances...",
+            "brandimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/t/245/assets/fashionista.svg"
+        },
+        {
+            "id": 5,
+            "text": "Dossier's fancy and affordable scent is actually inspired by YSL.",
+            "brandimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/t/245/assets/et.svg"
+        },
+        {
+            "id": 6,
+            "text": "I can attest that it smells like a dream and is impressively long-lasting.",
+            "brandimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/t/245/assets/insidehook.svg"
+        },
+        {
+            "id": 7,
+            "text": "The brand's vegan and cruelty-free offerings include an assortment of lust-worthy scents.",
+            "brandimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/t/245/assets/ad.svg"
+        },
+        {
+            "id": 8,
+            "text": "Dossier is coming to you with a home fragnance line.",
+            "brandimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/t/245/assets/msn.svg"
+        },
+        {
+            "id": 9,
+            "text": "TikTok's favorite perfume brand just launched a candle time.",
+            "brandimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/t/245/assets/apartment-therapy.svg"
+        },
+        {
+            "id": 10,
+            "text": "This is like a rainy Saturday morning in a bottle. That's nice to  think about on a Monday.",
+            "brandimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/files/Vector_500x.png"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Women"
+        },
+        {
+            "id": 2,
+            "name": "Men"
+        },
+        {
+            "id": 3,
+            "name": "Unisex"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "FLORAL MARSHMALLOW",
+            "categoryId": 1,
+            "description": "Killian's Love, Don't Be Shy",
+            "price": 39,
+            "reviewsCount": 1396,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-marshmallow-women-inspired-by-by-killians-love-dont-be-shy-212609.jpg?v=1641238116",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-marshmallow-women-inspired-by-by-killians-love-dont-be-shy-935955_450x.jpg",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-marshmallow-women-inspired-by-by-killians-love-dont-be-shy-831960.jpg?v=1641238090",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-marshmallow-women-inspired-by-by-killians-love-dont-be-shy-165885.jpg?v=1641238080",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-marshmallow-women-inspired-by-by-killians-love-dont-be-shy-574160.jpg?v=1641238097"
+            },
+            "concentration": 18,
+            "gender": "Feminine",
+            "about": "This unique fragrance is made of an expressive combination of orange blossom and marshmallow, plus fresh notes of honeysuckle and neroli. Base scents of musk, amber, and vanilla add depth and complement the sweet marshmallow opening notes.<br/>Sensual, innocent, yet playful, Floral Marshmallow (inspired by By Kilian's Love, Don't Be Shy) delivers an exquisite blend of vibrant florals and edible notes.",
+            "smells": {
+                "top": "Marshmallow, Neroli, Bergamot",
+                "middle": "Orange Blossom, Honeysuckle, Jasmine, Orris",
+                "base": "Amber, Vanilla, Musk"
+            },
+            "ingredients": "Pink Pepper Ess, Benzoin Res, Bergamot Ess, Orange Flower Abs, Geranium Chine Ess, Jasmine Abs, Labdanum Res, Orange Ess, Hedione, Musk T, Ethyl Linalol, Ethyl Vanilline, Vanilline, Isobornylcyclohexanol, Exaltolide, Nerolidol, Methyl Anthranilate, Ethyl Maltol, Linalol",
+            "details": {
+                "title": "A delicate mix of vivacious florals and palatable notes",
+                "content": "Rediscover yourself with Love Don’t Be Shy Eau de Parfum, the floral-fruit juice from Kilian Hennessy. Launched in 2007, this perfume prides itself on being exhilarating and unforgettable. It is a fragrance story that mesmerizes you right from the prologue.<br/>Get lost in an ethereal dimension of love as top notes of neroli, bergamot, and coriander hold you spellbound. Give in to your innate desires as middle notes of orange blossom, jasmine, and honeysuckle lend a throbbing touch of sensuality. Satisfy the craving twinge of new love as base notes of sugar, caramel, civet, and labdanum reach into your very soul.<br/>It’s always a superior experience when the Kilian Love Don’t Be Shy Eau de Parfum is involved – an intense experience akin to walking barefoot on the white sands of Kauna’oa Bay. Allure meets wealth in this provocative citrus spritz – and the result is a scent that flips the script on what fragrances stand for.<br/>If you want to revel in a cozy concoction, this modern classic is your best choice. It is a gentle, cultured, and stunningly beautiful perfume and a must-have in your fragrance repertoire. It is the olfactory equivalent of the picturesque villages of the Greek island of Santorini – all in one elegant bottle.<br/>Feast on the delicacies of love and arouse your senses with this refined aroma. Stand out from the crowd and command respect with this enigmatic yet acquainted scent. The Kilian Love Don’t Be Shy Eau de Parfum is a trendy icon that makes you wander to the island of Thirassia, inhale the nostalgic breeze, and swim in the breathtaking blue seas. Spritz calmly and experience a rush of energy, addiction, and desire.<br/>The Kilian Love Don’t Be Shy perfumes are on sale on various online retailers where they go for $200 for the Love Don’t Be Shy Refillable travel set 30 ml (4 × 7.5 ml), $200 for Love Don’t Be Shy refill 50 ml, $350 for the Good Girl Gone Bad By Kilian 50 ml refillable perfume spray with clutch, and $200 for the Good Girl Gone Bad By Kilian refill 50 ml. You can also get the Good Girl Gone Bad By Kilian refillable travel set 30 ml (4 × 7.5 ml) for $200, the Woman In Gold 50 ml refillable perfume spray with coffret for $350, the Woman In Gold Refill 50 ml for $200, and the Beyond Love, Prohibited refill 50 ml for $200. Alternatively, you can buy the Sweet Redemption, The End refill 1.7 oz for $200 or Liaisons Dangereuses, typical me for $250.<br/>For a similar captivating and deliciously sensual floral-fruit nectar, get Dossier’s Floral Marshmallow. Our Kilian Love Don’t Be Shy dupe encapsulates the essence of spring and radiates effortless excellence, youthful exuberance, and amorous love. It is an elegant day-to-day perfume that transports you to the peaks of the Maroon Bells – with the lovely Elk mountains and the dazzling aspen trees. Wear this scent if you want the allure of orange blossom, marshmallow, and honeysuckle to wash over you like a wave. Just spritz, take a deep breath, and revel in the exquisite beauty of vivacious florals and palatable notes."
+            }
+        },
+        {
+            "id": 2,
+            "name": "GOURMAND WHITE FLOWERS",
+            "categoryId": 1,
+            "description": "Viktor&Rolf's Flowerbomb",
+            "price": 29,
+            "reviewsCount": 1523,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/gourmand-white-flowers-women-inspired-by-viktorrolfs-flowerbomb-225280.jpg?v=1628249175",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/gourmand-white-flowers-women-inspired-by-viktorrolfs-flowerbomb-164612.jpg?v=1628250466",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/gourmand-white-flowers-women-inspired-by-viktorrolfs-flowerbomb-246941.jpg?v=1628250133",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/gourmand-white-flowers-women-inspired-by-viktorrolfs-flowerbomb-134670.jpg?v=1628248173",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/gourmand-white-flowers-women-inspired-by-viktorrolfs-flowerbomb-383717.jpg?v=1630494281"
+            },
+            "concentration": 18,
+            "gender": "Feminine",
+            "about": "Gourmand White Flowers (inspired by Viktor&Rolf's Flowerbomb) offers a sparkle of green tea, berries, caramel, and vanilla notes that play with orchid, jasmine, and rose. The fragrance trail is an intriguing woody orris accord that entwines with the floral heart.<br/>Warm and feminine, Gourmand White Flowers (our impression of Viktor&Rolf's Flowerbomb) succeeds at being both sweet and sexy, with a powdery veil that offers sophistication to the gourmand notes.",
+            "smells": {
+                "top": "Bergamot, Green Tea, Freesia, Berries",
+                "middle": "White Flowers, Orchid, Rose",
+                "base": "Musk, Patchouli, Caramel, Vanilla"
+            },
+            "ingredients": "Benzoin Siam Res, Bergamot Ess, Patchouli Ess, Hedione, Benzyl Salicylate, Osyrol, Ethyl Linalol, Linalol, Iso E Super, Beta Ionone, Musk T, Linalyl Acetate, Trimofix, Cedramber, Sandalore, Vanilline, Ethyl Vanilline, Ethyl Maltol, Muscenone, Dihydromyrcenol, Cashmeran, Ambroxan.",
+            "details": {
+                "title": "An escape into the surreal splendor of the bright side",
+                "content": "Flowerbomb, the 17-year-old explosive floral bouquet from Viktor & Rolf, encapsulates the very essence of purity, passion, and love. Think of it as the tasty olfactory equivalent of a chilly fountain in the middle of summer.<br/>First, there are notes of tea, bergamot, and Osmanthus – and then, there are touches of orchids, jasmine, and orange flowers. The overall effect is an aroma that is sensual and dreamy at the same time – a heavenly fragrance that sings of blossoming blooms and fragrant petals.<br/>The twist comes with the addition of patchouli, musk, and vanilla – a mystical combo that awakens the senses and arouses a feeling of superior calmness. Viktor & Rolf Flowerbomb is the perfume you need if you want an escape into the surreal splendor of the bright side. It echoes the lovely charms of mother nature, including the frozen tufts of grass across the snowfields, the dewy earth smiling at the blue sky, and the jungle foliage dancing to the tune of the north winds.<br/>Clean and charismatic, it gives you entry into the lovely green floral world: a fresh and flowery dynamic explosion of adaptability, individuality, and mystery. Viktor & Rolf Flowerbomb is an enchanted rose in the palm of your hand that casts a love spell on anybody who gets too close.<br/>Feel the gentle breeze of isle air on your skin, as this mind-transporting fragrance conjures up a summer holiday on the lush volcanic French Polynesian islands.<br/>Even the perfume’s bottle has become awe-inspiring, with the semblance of a priceless diamond. If you’re not one for a dull-smelling perfume in a dull-looking bottle, but rather are a lover of the direct opposite, the Viktor & Rolf Flowerbomb is the perfume for you.<br/>So, how much does it go for? Most online retailers sell the Viktor & Rolf Flowerbomb Ruby Orchid for $33.00, Viktor & Rolf Flowerbomb Midnight for $168, Viktor & Rolf Flowerbomb Eau De Parfum for $118, Viktor & Rolf Flowerbomb 3-piece Perfume Set for $170, and Viktor & Rolf Flowerbomb Bloom for $165. You’ll also get the Viktor & Rolf Flowerbomb Eau De Parfum gift set for $135, Viktor & Rolf Flowerbomb Mariage Eau de Parfum for $115, Viktor & Rolf Flowerbomb Nectar for $175, Viktor & Rolf Flowerbomb Dew Eau de Parfum for $33.00 – $168.00, and Viktor & Rolf Flowerbomb Haute Couture Eau de Parfum for $2,500.00.<br/>Finally, if you want a scent that is inspired by the Flowerbomb Eau de Parfum but at a more affordable price, Dossier’s Gourmand White Flowers is your best choice. Featuring enveloping floral and spicy notes, our Viktor & Rolf Flowerbomb dupe is a zestful classic that conjures a feeling of calm, akin to taking a stroll along the beach on a moonlit night. It is uniquely designed to produce a mind’s eye view of the lotus and the yellow-pond lily as they yield to the sway of the ocean currents. Look no further if you want a truly sublime and delicious fragrance that provides sensual undertones to floral and spicy sensations."
+            }
+        },
+        {
+            "id": 3,
+            "name": "FLORAL HONEYSUCKLE",
+            "categoryId": 1,
+            "description": " Gucci's Bloom",
+            "price": 39,
+            "reviewsCount": 849,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-honeysuckle-women-inspired-by-guccis-bloom-979203.jpg?v=1628250276",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-honeysuckle-women-inspired-by-guccis-bloom-439399.jpg?v=1650440650",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-honeysuckle-women-inspired-by-guccis-bloom-278043.jpg?v=1628250702",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-honeysuckle-women-inspired-by-guccis-bloom-588636.jpg?v=1628249113",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-honeysuckle-women-inspired-by-guccis-bloom-954666.jpg?v=1650463474"
+            },
+            "concentration": 15,
+            "gender": "Feminine",
+            "about": "Floral Honeysuckle (inspired by Gucci's Bloom) blossoms with a dreamy mix of the perfumery star flowers: tuberose and jasmine. With sensuality at its core, natural and tender accents of honeysuckle and green leaves are added into the mix.<br/>Petally, natural, and feminine, Floral Honeysuckle (our impression of Gucci's Bloom) is a walk in a colorful garden, filled with many flowers and plants, a bouquet of abundance.",
+            "smells": {
+                "top": "Green Leaves, Orange, Honeysuckle",
+                "middle": "Jasmine Sambac, Tuberose",
+                "base": "Orris, Sandalwood, Vanilla"
+            },
+            "ingredients": "Jasmine Abs, Ylang Ess, Florol, Hedione, Cis-3-Hexenyl Salicylate, Iso E Super, Linalol, Exaltolide, Phenylethyl Alcohol, Benzyl Salicylate, Benzyl Acvetate, Hydroxycitronellal, Muscenone, Ethyl Linalol, Musk T, Helveltolide, Citronellol, Cis-3-Hexenyl Benzoate, Globalide, Eugenol, Mayol, Geraniol, Aldehyde C18, Polysantol, Magnolan, Citronellyl Acetate, Methyl Anthranilate, Styrallyl Acetate, Methyl Isoeugenol, Boisambrene.",
+            "details": {
+                "title": "Gucci’s Heart of Eden",
+                "content": "Gucci’s Bloom evokes the ambiance of a lush, idyllic garden. And much like the resurgence of the great House itself (under the watchful eye of Alessandro Michele since 2015), Gucci’s floral fragrance is both classically elegant and subversively provocative, redefining what makes a floral fragrance, well, floral.<br/>Gucci Bloom is a nod to Gucci’s days of pure quality. The opening is lovely — a vivid view of leafy greens enclosing stalks of velvety jasmine, hidden but still subtly fragrant. Soon, you discover the fragrance’s true essence — middle notes that encompass a fierce floral heart. Jasmine explicitly introduces itself yet again, this time with greater force and vigor. Heady tuberose notes cut right through with a rich, waxy, and simply delightful scent. Plus, contributions from a flower native to South India known as Rangoon creeper, with bold, sweet overtones. Finally, the fragrance dries down to a powdery note, signaling a refined close to this floral scent.<br/>Gucci Bloom’s notes may read as overly floral on paper, but they are in no way overpowering. In fact, we love how light and subtle the floral notes here are. The floral bouquet comes through with a wispy, breezy quality. It’s a smooth blend that allows each ingredient to showcase its own unique facets.<br/>And allow us to say, Gucci Bloom is realistic. Wearing Bloom smells like you’re wearing actual flowers. And sure, we hear lots of talk about fancy floral touches in this and that, but when it comes to Bloom, it’s the real thing. Everything is fresh, au naturel, with just the right amount of sweetness and green. The absence of synthetic scents, or any hints of human interference at all, makes this a very delectable scent. And one that we certainly won’t mind having.<br/>Gucci Bloom is the first in a fantastic floral collection of scents. Each fragrance offers something truly distinctive. There’s the original Gucci Bloom perfume (the inspiration for our dupe, Floral Honeysuckle), which also comes in a three-piece gift set comprising a bottle of Gucci Bloom Eau de Parfum, rollerball, and body lotion. A spate of delightful flankers follows, including Gucci Bloom Acqua Di Fiori Eau de Toilette, Bloom Ambrosia Di Fiori Eau de Parfum, Bloom Profumo Di Fiori, and Bloom Nettare Di Fiori Eau de Parfum, which is undoubtedly the heaviest scent of the lot.<br/>Gucci’s beloved floral fragrance is all we’re looking for in a bottle of elegant, feminine perfume. For the same amounts of freshness and juicy greens, take a gander at Dossier’s Floral Honeysuckle. Our Gucci Bloom dupe embodies a similar softness you would expect from something so floral. You’ll find a familiar opening of lush green notes, complemented by notes of white flowers that glow under the warmth of evening musk."
+            }
+        },
+        {
+            "id": 4,
+            "name": "AMBERY VANILLA",
+            "categoryId": 1,
+            "description": "YSL's Black Opium",
+            "price": 29,
+            "reviewsCount": 2196,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-vanilla-new-women-inspired-by-ysls-black-opium-455042.jpg?v=1643131896",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-vanilla-new-women-inspired-by-ysls-black-opium-144544.jpg?v=1643131857",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-vanilla-new-women-inspired-by-ysls-black-opium-703884.jpg?v=1643131705",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-vanilla-new-women-inspired-by-ysls-black-opium-232814.jpg?v=1643131492",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-vanilla-new-women-inspired-by-ysls-black-opium-984209.jpg?v=1643131433"
+            },
+            "concentration": 15,
+            "gender": "Feminine",
+            "about": "Ambery Vanilla (inspired by YSL's Black Opium) opens with a hint of pear mixed with a hidden note of licorice. Next, it evolves into highly qualitative notes of orange blossom and jasmine flowers, warmed up with deep vanilla and black coffee.<br/>Sensuous and yummy, Ambery Vanilla (our impression of YSL's Black Opium) is a multi-faceted fragrance that starts off bright and gourmand, evolving into an intoxicating floralcy with warmth.",
+            "smells": {
+                "top": "Mandarin, Pear, Pink Pepper, Liquorice",
+                "middle": "Jasmine, Orange Blossom",
+                "base": "Cedarwood, Patchouli, Vanilla, Coffee"
+            },
+            "ingredients": "Cedarwood Ess, Lemon Ess, Mandarin Ess, Orange Ess, Patchouli Ess, Iso E Super, Hedione, Benzyl Salicylate, Cis-3-Hexenyl Salicylate, Ethyl Linalol, Habanolide, Vanilline, Trimofix, Florol, Hydroxycitronellal, Linalyl Acetate, Ethyl Maltol, Cetalox, Linalol, Ethyl Vanilline, Osyrol, Helveltolide, Dihydromyrcenol, Sandalore, Heliotropine, Cashmeran, Jasmonal H, Dimethyl Phenylethyl Carbinol, Muscenone, Hexyl Acetate,DMBC Acetate, Geranyl Acetate, Bacdanol, Beta Ionone, Benzyl Acetate, Verdox, Mayol, Geraniol.",
+            "details": {
+                "title": "For The Woman Who Has the World at Her Feet",
+                "content": "According to our history books, the original Opium was born in 1977, fueled by Yves Saint Laurent’s fascination with the Orient. But what they also tell us is that the fragrance was an astonishing success. It flew off shelves everywhere. Sales figures were beyond astronomical, reaching stratospheric heights never seen before. It’s safe to say that this was, at its time, the most popular perfume in the world.<br/>And now, it’s back. And completely reimagined for the modern woman. This newer, modern reimagining comes in the form of Yves Saint Laurent’s Black Opium, which was released in the fall of 2014. The fragrance was developed by Nathalie Lorson, Marie Salamagne, Honorine Blanc, and Olivier Cresp. And sure, it isn’t a new formula by any means — the creators simply gave it a contemporary twist. Nonetheless, the result is still an equally (if not more) intoxicating scent, one that rivals the original in every sense.<br/>Black Opium is a warm gourmand perfume whose beauty is as seductive as its name suggests. The fragrance is supported by an enigmatic advertising campaign, calling empowered women everywhere to step forward. It speaks directly to the strong woman of today, inspiring her to live a life that’s vibrant and brimming with confidence. And it’s a call many are answering, too — if its commercial success is anything to go by.<br/>YSL’s intoxicating Black Opium Eau de Parfum begins with a burst of orange blossom right upfront. Immediately afterward, you get slight notes of adrenaline-rich coffee beans, followed by a hint of refreshing pear. Near the middle, the fragrance reclines into the softness of white flowers, giving the fragrance a firm calmness that befits the young, elegant woman that wears it. Nearing its base, Black Opium dries into a warm, coffee-tinged gourmand scent with a sticky musk that wraps around creamy vanilla bits. It’s yummy and oh-so addictive.<br/>YSL’s Black Opium is a sweet, dark fragrance with a somewhat bitter edge. It’s not a subtle experience by any means, with a scent that constantly projects a sense of raw power and control. In other words, this isn’t a scent meant to be worn passively.<br/>In its original form, YSL Black Opium comes as an Eau de Parfum. The original EDP is also available as a gift set. For a more potent brew, you might want to look at the YSL Black Opium Eau de Parfum Intense. If that isn’t enough for you, perhaps you’d be pleased to know that a certain Black Opium EDP Extreme exists. This is a darker version of the original with fewer sweet undertones.<br/>Black Opium is a real rush to the senses. Infused with white flowers, smooth vanilla, and invigorating coffee, it’s everything we’d dared hope for in the modern woman’s perfume. We can’t get enough of it; so much so that its undertones became the inspiration behind Ambery Vanilla, our own YSL Black Opium dupe. Sensuous and yummy, our replica is the perfect scent for the woman who has the world at her feet."
+            }
+        },
+        {
+            "id": 5,
+            "name": "AMBERY SAFFRON",
+            "categoryId": 3,
+            "description": "MFK's Baccarat Rouge 540",
+            "price": 49,
+            "reviewsCount": 3493,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-saffron-unisex-inspired-by-maison-francis-kurkdjians-baccarat-rouge-540-293857.jpg?v=1628249395",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-saffron-unisex-inspired-by-maison-francis-kurkdjians-baccarat-rouge-540-760763.jpg?v=1628248794",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-saffron-unisex-inspired-by-maison-francis-kurkdjians-baccarat-rouge-540-120125.jpg?v=1628250509",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-saffron-unisex-inspired-by-maison-francis-kurkdjians-baccarat-rouge-540-337092.jpg?v=1628250013",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-saffron-unisex-inspired-by-mfk-baccarat-rouge-540-485107.jpg?v=1630494514"
+            },
+            "concentration": 18,
+            "gender": "Unisex",
+            "about": "With the scorching heat of saffron, Ambery Saffron (inspired by MFK's Baccarat Rouge 540) opens up with a bang. Often avoided in perfumery because of its intensity, the warm temper of saffron is balanced with sizzling cedarwood and sultry amber.<br/>With depth and an intoxicating spice that you won’t find anywhere else, Ambery Saffron (our impression of MFK's Baccarat Rouge 540) is full of mystery, delivering on warmth and unique texture.",
+            "smells": {
+                "top": "Saffron, Orange Blossom",
+                "middle": "Jasmine, Plum, Cedarwood",
+                "base": "Oakmoss, Fir Balsam, Amber"
+            },
+            "ingredients": "Orange Ess, Marigold Ess, Hedione, Ambroxan, Mousse LHB/Everynyl.",
+            "details": {
+                "title": "A Quiet Cult Classic That Became a Cultural Phenomenon",
+                "content": "It needs no introduction: since social media has uncovered Baccarat’s Rouge 540 for men, everyone has been raving about it. We’re not that surprised — after all, it is one of the cleverest perfume compositions of recent years. But what is the story behind this iconic fragrance?<br/>Baccarat celebrates its 250th anniversary with Baccarat Rouge 540, created by the fine crystal company in partnership with globally acclaimed perfumer Francis Kurkdjian. Since its launch in 2015, Baccarat’s Rouge 540 has cemented its status as an elegantly luxurious and intense scent. Stunning and unique in every conceivable way, there’s absolutely nothing boring about its scent profile.<br/>Baccarat Rouge 540 opens with a powerful scent of amber wood. This is closely followed by notes of jasmine and cedar, which together create a fruity, sugary aroma. You’ll also get hints of rosemary, further adding to its sweet fragrance. Combined with a hearty dose of ambroxan, the fragrance gradually settles into this toasted sugar, candy floss vibe that makes everything seem addictively yummy. It’s a delicious scent that will make your mouth water.<br/>However, despite the sweet fruity notes, they don’t overpower the nose; instead, they give off a light and airy sensation. The sweetness is just right so as not to be offensive even at close proximity. At a distance, the perfume has a distinctive clean, floral aroma, one that many may find themselves drawn to.<br/>Baccarat Rouge 540 comes in two different fragrances: Extrait de Parfum and Eau de Parfum (EDP). They share the same scent, but the silage and the pricing are different.<br/>The Baccarat Rouge 540 Extrait has a little more depth, longevity, and projection than the EDP. The Extrait is also significantly denser and adds a more substantial toasted quality on top of everything else. Everything about it feels heavier and more powerful. Aside from the Eau de Parfum and Extrait de Parfum, Baccarat’s Rouge 540 is also available as a candle, hair spray, body oil, and body cream.<br/>Recent years have seen Baccarat Rouge 540 become one of the most sought-after fragrances of all time. Perhaps it even seemed to be a worthwhile investment at some point in your life. This isn’t a perfume for the price-conscious, though. A 2.4 oz bottle of Baccarat Rouge 540 will set you back $325, a price tag that safely excludes it from impulse-buy territory when you’re shopping for perfume.<br/>But at Dossier, we’re all about opening doors to the best fragrances in the world.<br/>The result is Ambery Saffron, the perfect imitation of Baccarat Rouge 540. It is now available in Dossier’s collection of quality, iconic perfume dupes as a perfect blend of opulence and affordability.<br/>Our dreamy Baccarat Rouge 540 dupe is sweet, pretty, and every bit as beautiful as the original — with a far lighter price tag. Our iteration was specially crafted to pay tribute to the depth and intoxicating spice trail that you’ll find with Baccarat’s masterpiece. It’s also not overly floral or woodsy, making it an ideal pick for both men and women."
+            }
+        },
+        {
+            "id": 6,
+            "name": "WOODY SANDALWOOD",
+            "categoryId": 3,
+            "description": "Le Labo Fragrances' Santal 33",
+            "price": 49,
+            "reviewsCount": 1674,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/woody-sandalwood-unisex-inspired-by-le-labo-fragrances-santal-33-876437.jpg?v=1628262359",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/woody-sandalwood-unisex-inspired-by-le-labo-fragrances-santal-33-459273.jpg?v=1630924148",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/woody-sandalwood-unisex-inspired-by-le-labo-fragrances-santal-33-239018.jpg?v=1628262405",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/woody-sandalwood-unisex-inspired-by-le-labo-fragrances-santal-33-765580.jpg?v=1628262464",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/woody-sandalwood-unisex-inspired-by-le-labo-fragrances-santal-33-832997.jpg?v=1630494340"
+            },
+            "concentration": 25,
+            "gender": "Unisex",
+            "about": "Woody Sandalwood (inspired by Le Labo Fragrances' Santal 33) is a tribute to the often underutilized precious nature of Sandalwood. Often considered a second player in the perfume industry, this scent capitalizes on the highest quality sandalwood: the Mysore variety from India. The result is uncomparable sandalwood that highlights its creamy facets, perfectly balancing the sharpness of other woods, while simultaneously giving a smooth continuity to floral bouquets. Pair that with the magical nature of sweet violet, classic orris, and woodsy musk, and Woodsy Sandalwood will soon become a new classic.<br/>Qualitative and minimalistic, Woody Sandalwood (our impression of Le Labo Fragrances' Santal 33) brings to mind the comfort of a warm hug, conveying a strong feeling of inner sensuality that’s unmatched by any comparable scent.",
+            "smells": {
+                "top": "Violet Leaves, Cardamom",
+                "middle": "Orris, Ambrox, Cedarwood, Cypriol",
+                "base": "Musk, Sandalwood, Amber"
+            },
+            "ingredients": "Amyris Ess, Cardamom Ess, Carrot Ess, Cypriol Ess, Sandalwood Ess, Timbersilk, Musk T, Beta Ionone, Cashmeran, Methyl Laitone, Ambrox DL, Ambroxan, Florol, Vertenex, Undecavertol, Phenoxanol, Hedione, Vanilline, Bacdanol.",
+            "details": {
+                "title": "A Deep, Warm Sandalwood Experience",
+                "content": "Santal 33, Le Labo’s long-standing fragrance, is undoubtedly one of the most defining scents of the decade. It’s so well-known that even some of the most iconic celebrities have taken to the unisex scent, such as Alexa Chung and Justin Bieber.<br/>This is a fragrance that has transcended cult status to become something that is at the same time coveted and ubiquitous. It’s a scent celebrated by perfumistas all over, and yet still enjoyably accessible to those who don’t know it.<br/>Developed by perfumer Frank Voelkl, Le Labo’s Santal 33 was unveiled in 2011. With its woodsy-sweet scent, it has a rugged, yet not overly masculine appeal; if anything, it seems more androgynous. In any case, there is something universally sensual about this perfume, one that intoxicates both men and women alike.<br/>Santal 33 greets you with a smoky, almost leathery aroma. This is accented by a woody accord (with bits of cedar, sandalwood, and turpentine) fused with a cream-like scent (thanks to the coconut and tonka bean). Iris, papyrus, and violet make up the top and middle notes, giving it an overall floral, musky aroma. In the background, a green cedar note is briefly discernible, together with a dab of cardamom, though they don’t stay around long. Late in Santal 33’s dry-down, sandalwood’s deep, warm character completely takes over, cementing its dominant run throughout the scent.<br/>Santal 33, as a whole, gives off a subtle aroma of milk and roses mixed with dense, old woods. It’s a lovely, comforting, smooth scent as it opens and develops, although by the end, what you’re left with is a bunch of smoky, milky notes that capture the distinctive scent of Australian sandalwood. Many will love it — others not so much. But regardless of how you look at it, this is a very mature scent, one that is suited for anyone so inclined to appreciate the finer side of life.<br/>Le Labo’s Santal 33 collection is available as an Eau de Parfum, body wash, body lotion, and candle.<br/>Unfortunately, there is a downside to Le Labo’s signature scent, and that’s the price. It’s not cheap. On the plus side though, you can get the same scent for much less.<br/>Enter Woody Sandalwood. This Le Labo’s Santal 33 dupe from Dossier.co is a lot cheaper than the original, and uses 100% Indian sandalwood — an ingredient rawer, earthier, and creamier than its Australian counterpart. The result is a much richer scent, one that strikes an ideal balance between the sharpness of woody notes and the smoothness of floral notes."
+            }
+        },
+        {
+            "id": 7,
+            "name": "FRUITY ALMOND",
+            "categoryId": 1,
+            "description": "Carolina Herrera's Good Girl",
+            "price": 29,
+            "reviewsCount": 1403,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fruity-almond-new-women-inspired-by-carolina-herreras-good-girl-547307.jpg?v=1643131561",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fruity-almond-new-women-inspired-by-carolina-herreras-good-girl-489110.jpg?v=1650440524",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fruity-almond-new-women-inspired-by-carolina-herreras-good-girl-423631.jpg?v=1643131476",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fruity-almond-new-women-inspired-by-carolina-herreras-good-girl-856786.jpg?v=1643131304",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fruity-almond-women-inspired-by-carolina-herreras-good-girl-707148.jpg?v=1650463500"
+            },
+            "concentration": 15,
+            "gender": "Feminine",
+            "about": "Fruity Almond (inspired by Carolina Herrera's Good Girl) combines joyful peach and almond, with a rich floral bouquet of tuberose and orange blossom. Next, tonka bean (sweet vanilla, intense almond, and cacao) is added to the lineup to bring in a sensual thrill.<br/>Feminine and colorful, Fruity Almond (our impression of Carolina Herrera's Good Girl) is a contrasted fragrance that takes you step-by-step from a luminous freshness to a saturated sensuality.",
+            "smells": {
+                "top": "Almond, Peach",
+                "middle": "Orris, Orange Blossom, Tuberose",
+                "base": "Tonka Bean, Vanilla, Cocoa"
+            },
+            "ingredients": "Pink Pepper Ess, Cedarwood Ess, Carrot Seed Ess, Lemon Ess, Jasmine Abs, Vetiver Ess, Hedione, Ethyl linalol, Iso E Super, Florol, Linalol, Hydroxycitronellal, Benzyl Salicylate, Linalyl Acetate, Vanilline, Coumarine, Amberketal, Cetalox, Ethyl Vanilline, Sandalore, Mayol, Alpha Damascone, Benzyl Benzoate, Cis-3-Hexenol Salicylate, Ethyl Maltol, Ebanol, Benzyl Acetate, Magnolan, Phenoxy Ethyl Isobutyrate, Prenyl Acetate, Dihydromyrcenol, Vetiveryl Acetate, Boisiris, Calone, Indole, Hydroxycitronellol, Nimberol, Aphermate, Verdox, Cis-Jasmone, Triplal, Veratric Aldehyde, Gamma Decalactone, Geraniol, Irone Alpha, Styrallyl Acetate, Cyclamen Aldehyde, Aldehyde C14, Cis-3-Hexenol, Liffarome, Majantol, Citronellol, Jasmolactone, Mefranal, Dimethyl Phenyl Ethyl Carbinol, Jasmonal H, Cyclohexyl Salicylate, Manzanate, Adoxal, Methyl Benzoate.",
+            "details": {
+                "title": "Be a charismatic, powerful woman",
+                "content": "In 2016, the world was introduced to the Good Girl Carolina Herrera Eau de Parfum through a TV commercial. Six years down the line, it remains one of the world’s most emblematic names in perfumery.<br/>Built around a mix note of jasmine, Bulgarian rose, almond, and sandalwood, Good Girl by Carolina Herrera produces a delicious floral scent replete with an oriental outer layer. It begins with a spicy, fruity fragrance (owing to a combination of lemon and cinnamon) before developing into an ultra-bold and creamy scent.<br/>Every opening reverberates with the breathtaking crispness of an October rain shower. And every application feels like a touch of the breeze that accompanies the rippling sea waves.<br/>But that’s not even the best part. A good smell isn’t all there is to the Good Girl by Carolina Herrera. It also has longevity and lets you radiate positive energy until everyone sees how much of a confident, vivacious strong woman you are. You could even say it enables you to balance femininity and power with its rich and enticing combination that stays on the skin for hours.<br/>So, why stick with mundane, routine experiences, when there are newer, fresher experiences yet to be had? This seductive floral is the way to go if you wish to be whisked away to an orchard where delicious fruits flourish on the blossoming green meadows. Good Girl by Carolina Herrera is your best bet for a quick vacation to lush hillsides — with the shimmering winds and the chilly falls. A more modern expression of the traditional floral perfume, even the bottle is special.<br/>The Carolina Herrera Good Girl Eau de Parfum is available on most online retailers where it goes for $86.84 for the 50 ml Supreme Eau de Parfum Spray, $76 for the Carolina Herrera Good Girl Eau de Parfum Supreme, $59.95 for the Carolina Herrera Good Girl Body Cream For Women, and $104 for the Carolina Herrera Eau de Parfum Spray 2.7 oz Good Girl Legere. Also, if you want the whole Carolina Herrera Good Girl For Women Gift Set (Eau de Parfum Spray 2.7 oz + Body Lotion 3.4 oz), you can get it for $105.79.<br/>Now, for anyone who likes the Carolina Herrera Good Girl Eau de Parfum but can’t have the original, Dossier’s Fruity Almond offers a way out. With an aroma seething with praline, sandalwood, cedar, and jasmine, Fruity Almond smells great enough to eat. The highlights, praline and sandalwood, transport you to the awe-inspiring natural landscapes of the Jiuzhaigou National Park, where the waterfalls force their way down the softly floral and bracingly green, natural steps. There’s no fuss, no fluff, and no salesy lingo here — only the truth of how our Good Girl Carolina Herrera dupe intertwines the vibrant notes of floral, spice, and fruit to provide true glitz and glamor. This is what you wear to conjure the breezy days on the Sicily Island if you want like-minded people of class drawn to you."
+            }
+        },
+        {
+            "id": 8,
+            "name": "WOODY OAKMOSS",
+            "categoryId": 1,
+            "description": "Chanel's Coco Mademoiselle",
+            "price": 29,
+            "reviewsCount": 1372,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/woody-oakmoss-new-women-inspired-by-chanels-coco-mademoiselle-494950.jpg?v=1643131521",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/woody-oakmoss-new-women-inspired-by-chanels-coco-mademoiselle-342184.jpg?v=1643131533",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/woody-oakmoss-new-women-inspired-by-chanels-coco-mademoiselle-143575.jpg?v=1643131271",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/woody-oakmoss-new-women-inspired-by-chanels-coco-mademoiselle-160064.jpg?v=1643131849",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/woody-oakmoss-new-women-inspired-by-chanels-coco-mademoiselle-145793.jpg?v=1643131454"
+            },
+            "concentration": 15,
+            "gender": "Feminine",
+            "about": "Woody Oakmoss (inspired by Chanel's Coco Mademoiselle) is inspired by one of the most iconic perfume structures: The Chypre (a blend of bergamot, rose, oakmoss, and patchouli). The fragrance’s re-balanced raw materials offer more room for a highly qualitative floralcy, married with a warm ambery base<br/>Perfect for the evening, Woody Oakmoss (our impression of Chanel's Coco Mademoiselle) is a multifaceted fragrance, sensual and sophisticated, all at the same time.",
+            "smells": {
+                "top": "Bergamot, Orange, Peach",
+                "middle": "Jasmine, Rose, Patchouli",
+                "base": "Oakmoss, Vanilla, Vetiver"
+            },
+            "ingredients": "Bergamot Ess, Incense Ess, Orange Ess, Patchouli Ess, Sandalwood Ess, Vetyver Ess, Hedione, Musk T, Linalol, Ethyl Linalol, Florol, Iso E Super, Cis-3-Hexenyl Salicylate, Benzyl Acetate, Ethyl Linalyl Acetate, Beta Ionone, Majantol, Phenylethyl Alcohol, Benzyl Salicylate, Dihydromyrcenol, Geranyl Acetate, Geraniol, Hydroxycitronellal, Citronellol, Styrallyl Acetate, Linalyl Acetate, Jasmonal H, Coumarine.",
+            "details": {
+                "title": "",
+                "content": ""
+            }
+        },
+        {
+            "id": 9,
+            "name": "FLORAL LAVENDER",
+            "categoryId": 1,
+            "description": "YSL's Libre",
+            "price": 29,
+            "reviewsCount": 967,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-lavender-women-inspired-by-ysls-libre-247748.jpg?v=1628249822",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-lavender-women-inspired-by-ysls-libre-486097.jpg?v=1650441289",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-lavender-women-inspired-by-ysls-libre-420332.jpg?v=1628249546",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-lavender-women-inspired-by-ysls-libre-490759.jpg?v=1628250725",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/floral-lavender-women-inspired-by-ysls-libre-666496.jpg?v=1650463494"
+            },
+            "concentration": 15,
+            "gender": "Feminine",
+            "about": "Floral Lavender (inspired by YSL's Libre) opens on a sunny mandarine, neroli, and orange blossom accord. It then evolves with warm notes of jasmine and vanilla. Paired with lavender--typically a masculine, raw material-- our floriental composition is given a hint of insolence.<br/>Intriguing, joyful, and warm, Floral Lavender (our impression of YSL's Libre) plays with genders, without ever neutralizing codes. The fragrance exhilarates a daring and free sensuality born from the collision of masculine and raw materials paired with a very feminine base.",
+            "smells": {
+                "top": "Mandarin, Neroli, Blackcurrant",
+                "middle": "Jasmine, Lavender, Orange Blossom",
+                "base": "Vanilla, Amber, Musk"
+            },
+            "ingredients": "Bergamot Ess, Atlas Cedarwood Ess, Lemon Ess, Lavandin Ess, Mandarin Ess, Orange Ess, Vetiver EssHedione, Timbersilk, Habanolide, Ethyl Linalol, Florol, Helveltolide, Linalyl Acetate, Trimofix, Ambroxan, Vanilline, Linalol, Benzyl Salicylate, Bacdanol, Hydroxycitronellal, Cis-3-Hexenyl Salicylate, Verdox,Magnolan, Heliotropine Crystals, Cyclamen Aldehyde, Exaltolide, Dihydromyrcenol, Phenyl Ethyl Alcohol, Terpineol, Grisalva, Ethyl Maltol, Ethyl Vanilline, Methyl Anthranilate, Musk T, Coumarine, Benzyl Acetate, Boisambrene, 2,4 Decadienoate Ethyl, Geraniol, Hexyl Acetate, Phenoxyethyl Isobutyrate, Citronellol, Geranyl Acetate, Indole.",
+            "details": {
+                "title": "For Those Who Live by Their Own Rules",
+                "content": "To bear the Yves Saint Laurent label is to be elegant, androgynous, and original. But above all, it implies a sense of being free, unencumbered by expectations and self-imposed constraints.</br>It’s in this very spirit that YSL introduced the powerful, gender-bending YSL Libre Eau de Parfum — a scent for those who lead lives of their own design. And indeed, Libre is the fragrance of freedom. Freedom to express yourself. Freedom to choose. Freedom to live life to the fullest.<br/>Libre makes an impressive first impression with a warm, sparkling curtain of citrus. Top notes include mandarin orange, blackcurrant, and lavender, while the heart notes are orange blossom and jasmine. The scent begins herbaceous but transitions into a lovely musk with notes such as Madagascar vanilla, ambergris accord, and cedarwood oil. The overall scent is pleasant, and a touch lighter than most florals.<br/>But perhaps the most interesting aspect of this fragrance lies in its stubborn refusal to conform to gender-specific olfactory conventions. And certainly, it wouldn’t be fair to call YSL Libre a purely feminine fragrance. No, there’s more to it than that. There is just something extremely sensual about the marriage of masculine lavender and feminine orange blossom absolute that, in the end, makes for a fragrance that’s really neither for him nor for her. It’s a soft, androgynous scent that straddles the line between two extremes: less intense than a gourmand and more muted than a chypré. Women looking for something less sweet and sharp will love Libre, while men with an affinity for fougère notes will find it inexplicably appealing.<br/>This is a powdery, sensual, and floral fragrance that lasts for upwards of eight hours from one spritz. And much like a pair of classic diamond studs, Libre is a fragrance that can be worn just about anywhere and at any time. We find it perfect for a night at the club, while also being appropriate for a more conservative daytime activity like work or a meeting.<br/>YSL Libre is available in two concentrations, an Eau de Parfum and a lighter, cleaner Eau de Toilette. The perfume also comes in a pretty three-piece gift set featuring a full-size Eau de Parfum, a travel-size Eau de Parfum, and a nourishing Libre body balm. Also available is YSL Libre Intense Eau de Parfum, a flanker to the original that adds even more power and sensuality.<br/>YSL Libre is a fresh, luxurious, and innovative perfume for the mind, body, and soul. Definitely one of our favorites. If you’re in the mood for something just as pleasant, with well-composed notes and unique character, consider Dossier’s Floral Lavender. Intriguing, joyful, and warm, our YSL Libre dupe perfume is gender-free and doesn’t compromise on the scent. It’s a replica of the original YSL Libre that pushes the bounds of sensuality, creating a scent that evokes raw confidence, beauty and sophistication."
+            }
+        },
+        {
+            "id": 10,
+            "name": "AROMATIC STAR ANISE",
+            "categoryId": 2,
+            "description": "Dior's Sauvage",
+            "price": 29,
+            "reviewsCount": 634,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/aromatic-star-anise-men-inspired-by-diors-sauvage-800606.jpg?v=1628250324",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/aromatic-star-anise-men-inspired-by-diors-sauvage-899323.jpg?v=1628248087",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/aromatic-star-anise-men-inspired-by-diors-sauvage-295904.jpg?v=1628248270",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/aromatic-star-anise-men-inspired-by-diors-sauvage-712565.jpg?v=1628250708",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/aromatic-star-anise-men-inspired-by-diors-sauvage-486560.jpg?v=1630494295"
+            },
+            "concentration": 12,
+            "gender": "Masculine",
+            "about": "Aromatic Star Anise (inspired by Dior's Sauvage) rewrites a very classical masculine fragrance structure named Fougere (a blend of citrus notes, lavender, geranium, and patchouli). Paired with highly qualitative raw materials and a touch of fantasy thanks to star anise, this scent delights the senses in a whole new way.<br/>Outdoorsy and fresh, Aromatic Star Anise (our impression of Dior's Sauvage) expresses strong, unmistakable masculinity.",
+            "smells": {
+                "top": "Bergamot, Pepper, Star Anise",
+                "middle": "Lavender, Nutmeg, Geranium",
+                "base": "Patchouli, Amberwood, Vetiver"
+            },
+            "ingredients": "Pink Pepper, Bergamot Ess, Lemon Ess, Elemi Ess, Geranium Ess, Lavender Ess, Patchouli Ess, Sichuan Pepper Ess, Vetiver Ess, Iso E Super, Hedione, Cetalox, Linalol, Dihydromyrcenol, Ambercore, Verdox, Methyl Pamplemousse, Magnolan, Coranol, Heliotropine, Ambrocenide, Cashmeran, Citronellol, Cis-3-Hexenyl Salicylate, Coumarin, Peonile, Mandarin Aldehyde, Pre Cyclemone B.",
+            "details": {
+                "title": "A World-Renowned Fragrance",
+                "content": "Aromatic Star Anise from Dossier pays tribute to one of the most recognizable scents in the world: Sauvage by Dior.<br/>Sauvage is the perfect fragrance for today's man. Inspired by the wild woods, this unique blend features delicious notes of pepper, Calabrian bergamot, and vetiver. It's a combination effortlessly masculine yet sensual, a rugged beauty that breathes life into the skin.<br/>Christian Dior first introduced the fragrance to the world in 2015. Fast forward almost a decade, and Dior Sauvage is still one of the most popular men's fragrances ever created.<br/>Sauvage comes in several variants: Dior Sauvage Eau de Parfum, Eau de Toilette, Eau de Cologne, and more recently, the Sauvage Elixir. This perfume was created by the legendary François Demachy, Dior's master fragrance craftsman.<br/>Dior Sauvage has a distinct, fresh citrusy scent that is more masculine than most fragrances. This raw concoction opens with a wonderfully rich bergamot layer, topped with a subtle peppery note. This is then accompanied by a flowery chorus of amberwood, vetiver, patchouli for a powerful but smooth finish.<br/>Far from musky, the fragrance evokes an unusual freshness infused with an invigorating morning mist. It's a scent reminiscent of wild woods --- unbridled yet strangely self-aware, addictive in every way.<br/>Dior's exuberant portrayal of masculinity in Sauvage is refreshing and undoubtedly contributed significantly to its phenomenal reception at launch.<br/>The fragrance has also been praised for its longevity. A few sprays can easily keep you fresh for more than 7 hours. In addition, Dior Sauvage quickly fills any room with elegance thanks to an excellent projection of up to 5 feet.<br/>If you're searching for a fresh, citrusy fragrance, this Sauvage inspired fragrance is an affordable offer that fits any budget .<br/>Dossier's Aromatic Star Anise is a Dior Sauvage dupe that's more sophisticated and richer than anything else available in the market. Designed based on the traditional French fragrance formula Fougere, which consists of a citrus scent with lavender, geranium, and patchouli notes, our take on this popular eau de toilette seduces all kinds of customers, with zero compromises on scent.<br/>Our Dior Sauvage dupe radiates a fresh, spicy flavor. Aside from the citrus note, you also get a delicious blend of juicy Calabrian bergamot, mandarin notes, and spiced star anise."
+            }
+        },
+        {
+            "id": 11,
+            "name": "SPICY MIMOSA",
+            "categoryId": 3,
+            "description": "Jo Malone's Mimosa & Cardamom",
+            "price": 29,
+            "reviewsCount": 146,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-mimosa-dossier-perfumes-155684.jpg?v=1632884590",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-mimosa-dossier-perfumes-496184.jpg?v=1632885083",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-mimosa-dossier-perfumes-240867.jpg?v=1632885479",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-mimosa-dossier-perfumes-881553.jpg?v=1632885309",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-mimosa-dossier-perfumes-531662.jpg?v=1632884404"
+            },
+            "concentration": 18,
+            "gender": "Unisex",
+            "about": "Spicy Mimosa (inspired by Jo Malone's Mimosa & Cardamom) is an unexpected combination of mimosa, cardamom and tonka bean. Mimosa, fabulous but fragile yellow pom-pom flowers, typical of the South of France, brings a very particular scent, at the same time bold and delicate, with a warm, honey, orris-like, powdery airiness. Cardamom adds a spicy vibrancy on top of the fragrance, when tonka bean reinforces its creamy powdery feeling on the base.<br/>Enveloping, caring, Spicy Mimosa (our impression of Jo Malone's Mimosa & Cardamom) is a fragrance of inner sensuality, with a very specific personality, original without ever being provocative.",
+            "smells": {
+                "top": "Cardamom, Mimosa",
+                "middle": "Heliotrope Flower, Rose",
+                "base": "Tonka Bean, Sandalwood"
+            },
+            "ingredients": "Cardamom Ess, Mimosa Abs, Benzoin Res, Hedione, Iso E Super, Musk T, Benzyl Salicylate, Ethyl Linalol, Mayol, Helveltolide, Vanilline, Heliotropine, Cis-3-Hexenyl Salicylate",
+            "details": {
+                "title": "Go on a front-row seat tour of the Sunwapta Valley",
+                "content": "Jo Malone is at it again, and this time it is Mimosa And Cardamom, a luxurious cologne that radiates pleasure, leisure, and desire.<br/>Launched in 2015, this fragrance combines the enduring appeal of cardamom with the intoxicating allure of mimosa and tonka bean into a scent that traps you in an ethereal dimension of love and affection.<br/>Dazzling and debauched, this floral conjures images of the stunning white sand beaches of the Ölüdeniz. The Jo Malone Mimosa and Cardamom is an electrifying blend of panache, excitement, and beauty. It is an up-to-the-minute floral that ticks every quality box and controverts the laws of conventional perfumery in their entirety.<br/>Addiction meets seduction here, and the effect is a fragrance that takes you on a tour of the travertine formations and lush forests of the Plitvice Lake. One spritz is enough to fill the air with the flickering flames of love and teleport you to the terraced marble cliffs of Scala dei Turchi.<br/>Leave a lasting impression on everyone in your locus as the Jo Malone Mimosa and Cardamom lends a love-laced trail as you pass. It is an untainted, unadulterated love-fest in a bottle. It is an elegant classic that encircles you with royalty and majesty.<br/>If you relish a 5-star aromatherapy (and one that dawdles on the skin for hours), look no further than this affection-laced floral-fruit nectar. Open the cap to launch a portal to the sculpted rock spires and unearthly desert landscapes of the De-Na-Zin Wilderness. The secret ingredient is love.<br/>To add this sweet floral to your scent repertoire, log on to your favorite online retailer and browse the inventory under ‘perfumes’. You can get the Jo Malone Mimosa & Cardamom Cologne Spray Fl Oz for Women for $73.64, the Jo Malone London Mimosa & Cardamom Body Crème for $86.00, the Jo Malone London Mimosa & Cardamom Candle for $70.00, and the Jo Malone London Mimosa & Cardamom Body & Hand Wash for $65.00. You can also get the Jo Malone Mimosa & Cardamom 3.4 oz Unisex Eau de Cologne for $134.98 and the Blackberry & Bay Body & Hand Lotion for $52.5.<br/>Finally, if you want to experience a regal yet affordable floral, consider Dossier’s Spicy Mimosa. Our Jo Malone London Mimosa and Cardamom dupe channels the essences of mimosa, cardamom, and tonka bean into a fragrance that takes you on a front-row seat tour of the Sunwapta Valley. Discover fabulous yet fragile yellow pom-pom flowers as they trap you in a circle of sensory escapism. Evoke your inner sensuality and vibrancy as you don this beautiful new scent. Step into the light as you imbibe the boldness and confidence this bouquet provides. Spicy Mimosa is both warm and sensual. It is complex and stimulating in a way that draws people of class to you. Spray gently to fill your day with cornflower blue skies."
+            }
+        },
+        {
+            "id": 12,
+            "name": "GREEN VERBENA",
+            "categoryId": 3,
+            "description": "Creed's Green Irish Tweed",
+            "price": 49,
+            "reviewsCount": 96,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/green-verbena-unisex-creeds-green-irish-tweed-478672.jpg?v=1628250613",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/green-verbena-unisex-creeds-green-irish-tweed-530030.jpg?v=1630924175",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/green-verbena-unisex-creeds-green-irish-tweed-923994.jpg?v=1628250597",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/green-verbena-unisex-creeds-green-irish-tweed-562339.jpg?v=1628250635",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/green-verbena-unisex-creeds-green-irish-tweed-591387.jpg?v=1630494415"
+            },
+            "concentration": 18,
+            "gender": "Unisex",
+            "about": "Green Verbena (inspired by Creed's Green Irish Tweed) opens with a fresh, peerless, expressive combination of verbena, peppermint and green leaves. The heart of the fragrance continues in the same spirit, with the astonishing pairing of violet and the aquatic nature of orris, subtly supported by a woody ambery accord.<br/>Refined yet casual, vintage yet eternal, Green Verbena (our impression of Creed's Green Irish Tweed) is as effortlessly masculine as an English gentleman's country tweed.",
+            "smells": {
+                "top": "Verbena, Green Leaves, Peppermint",
+                "middle": "Orris, Violet Leaves, Aquatic Accord",
+                "base": "Sandalwood, Grey Amber, Patchouli"
+            },
+            "ingredients": "Bergamot Ess, Lemon Ess, Galbanum Ess, Juniper Berry Ess, Geranium Ess, Lavender Ess, Lavandin Ess, Yakima Mint Ess, Black Pepper Ess, Sandalwood Ess, Vertofix, Iso E Super, Dihydromyrcenol, Linalyl Acetate, Hedione, Iralia, Allyl Amyl Glycolate, Linalol, Polysantol, Ambroxan, Pre Cyclemone B, Menthol, Hydroxycitronellal, Undecavertol, Citral, Violettyn, Mousse LHB/Evernyl, Oranger Crystals, Firascone, Hydroxycitronellol, Givescone, Citronellol, Geraniol.",
+            "details": {
+                "title": "A Timeless Scent for The Modern Man",
+                "content": "Fougères are well known for their savory spices and woody notes, making them a popular designer fragrance choice. Green, aromatic, and incredibly fresh, Creed’s Green Irish Tweed fits right into this category. Natural woodiness meets pure masculinity in this delectable concoction that never strays too far into overwhelming territory.<br/>A masterpiece by the legendary Olivier Creed, this fragrance is definitely one of the best ever created by the Creed house. In retrospect, this was the scent that set the Creed house on its skyrocketing trajectory, propelling it to the top of the olfactory charts during its release back in 1985.<br/>The old adage holds true: a classic never goes out of style. Similarly, Green Irish Tweed is a timeless classic, effortlessly relevant, and impeccable. No surprise, then, that Creed Green Irish Tweed is still one of the oldest fragrances produced and sold worldwide today.<br/>Creed Green Irish Tweed opens with aromatic lemon and verbena, perfectly cooled down with a hint of peppermint. We’d describe the scent as mossy and earthy, with a citrusy kick provided by the lemon verbena. What we like most about this fragrance is how nicely it settles into its heart – transforming into an incredibly refined and elegant aroma that’s very easy to like. Also present in an arrangement of geranium and lavender that helps create the classic fougère structure. To finish it off, a deep, rich cedarwood scent is sprinkled over bright oakmoss, creating a scent that’s at the same time uplifting and distinctly forest-like.<br/>Creed Green Irish Tweed shares several similarities with another iconic scent – Creed Aventus. These are probably the two most popular perfumes from the French perfume house today. And one question we often get is: which one should I pick? How would you rank Creed Green Irish Tweed vs. Creed Aventus?<br/>Both fragrances smell strong and masculine while remaining fairly woody. But that’s about where their similarities end. For one, Aventus smells sweet and citrusy. On the other hand, Green Irish Tweed comes across as fresh and woody with fewer sweeter notes.<br/>This scent profile makes Creed Aventus an excellent choice for any weather and any situation. In contrast, we’d save Creed’s Green Irish Tweed cologne for cooler weather (think spring) or evening dates since it has a more mature, refined scent.<br/>Creed perfumes are some of the most sophisticated fragrances in the world, and Creed aficionados claim they’re impossible to dupe. Whether or not that’s true, what we do know for sure is that Creed perfumes are, of course, super expensive and out of reach for most people. So, what’s a Creed devotee to do when he or she wants Creed’s signature Green Irish Tweed but can’t justify the $320 price tag for a 50 ml (1.7 oz) bottle? Try this: Dossier’s Green Verbena. Our Creed Green Irish Tweed dupe gives hints of woodsy and earthy smells, reminiscent of the original fragrance, but for only a fraction of the price. Discover our Creed Green Irish Tweed dupe for a powerful, elegant, and effortlessly masculine fragrance."
+            }
+        },
+        {
+            "id": 13,
+            "name": "FRUITY JASMINE",
+            "categoryId": 1,
+            "description": "Dior's J’Adore",
+            "price": 29,
+            "reviewsCount": 646,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fruity-jasmine-women-inspired-by-diors-jadore-782334.jpg?v=1628248120",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fruity-jasmine-women-inspired-by-diors-jadore-475930.jpg?v=1628249323",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fruity-jasmine-women-inspired-by-diors-jadore-755706.jpg?v=1628249389",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fruity-jasmine-women-inspired-by-diors-jadore-529800.jpg?v=1628250608",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fruity-jasmine-women-inspired-by-diors-jadore-747430.jpg?v=1630667161"
+            },
+            "concentration": 15,
+            "gender": "Feminine",
+            "about": "Fruity Jasmine (inspired by Dior's J’Adore) presents a blend of explosive green accord and sharp floralcy. It combines jasmine, champaca (a flower similar to magnolia), and ylang-ylang to create an entirely new floral scent that does not exist in nature. This contrasted creation is softened with sweet plum and peach notes laying on a musky sandalwood veil.<br/>Glamorous and feminine, Fruity Jasmine (our impression of Dior's J’Adore) is an opulent, luminous, floral fragrance shimmering on the skin like sunbeams.",
+            "smells": {
+                "top": "Mandarin, Green Leaves, Sweet Pea",
+                "middle": "Jasmine, Ylang Ylang ,Champaca, Peach",
+                "base": "Sandalwood, Plum, Musk"
+            },
+            "ingredients": "Bergamot Ess, Cinnamon Bark Ess, Geranium Ess, Magnolia Flowers Ess, Rose Ess, Rose Abs, Santal Ess, Ylang Ess, Floral, Hedione, Ethyl Linalol, Jasmonal H, Benzyl Salicylate, Phenoxanol, Exaltolide, Hydroxycitronellal, Benzyl Acetate, Linalyl Acetate, Iso E Super, Citronellol, Isoraldeine, Musk T, Cis-3-Hexenyl Salicylate, Osyrol, Habanolide, Phenyl Ethyl Alcohol, Dimethyl Phenyl Ethyl Carbinol, Glycolierral, Vanilline, Ebanol, Dihydromyrcenol, Styrallyl Acetate, Cetone V, Indole, Aldehyde C14, Geraniol, Muscone.",
+            "details": {
+                "title": "A Nod to Vivacious Florals",
+                "content": "J’Adore Parfum by Christian Dior is a fruity floral fragrance launched in 1999. Infused with a feminine, classy, elegant, and sophisticated aroma, J’Adore is a sensual perfume that charms in a subtle, ladylike manner.<br/>Dior likens its J’Adore fragrance to the perfect bouquet – elegant and meticulously crafted – a floral arrangement made to order. Quite a claim, for sure. But one that we can certainly get behind. Using Comoros ylang-ylang, Damask rose, and Arabian jasmine as its primary ingredients, Dior J’Adore Eau de Parfum provides an exotic floral bouquet like no other. With a flawless balance of sensuality and intensity, here is a composition that brings together opposites to produce an alluring, mysterious floral ensemble.<br/>The opening of Dior J’Adore contains a punching essence of bergamot, followed by fruity and fresh flavors of pear and melon. Damask rose, luxurious and exuberant, adds a soft exotic touch with its soft and enveloping fragrance. At this point, the floral bouquet manifests itself in its entirety, displaying a dazzling array of lilies of the valley, tuberose, magnolia, and more. And just before the scent moves into its final act, a chorus of Jasmines bursts forth to envelop the wearer with a sense of sensuality. Then comes the base notes, which are a mixture of woody with a little floral – a pine scent on top of a cedar cream, with hints of vanilla and blueberry.<br/>Overall, we find this to be a sweet, crowd-pleasing scent. There’s a feeling of youth and vitality but with a certain sense of sophistication. Considering that it’s such a luxurious and exceptional fragrance, it’s easy to see why this would be a favorite for formal dinners, black-tie parties, or even work.                <br/>The floral scent holds up well to humidity in warmer weather. Many people mistake it for a loud scent, but it’s actually quite soft. This does not, however, mean it is weak. Especially since this is an Eau de parfum, you will still smell J’adore. Expect a full day of wear with this EDP – easily over eight hours of solid performance.<br/>Dior J’Adore is a sophisticated, elegant floral fragrance. And despite being released in 1999, it remains popular to this day. It’s so iconic and distinct that several reinterpretations have been brought to market over the years. We’ve seen the likes of: Dior J’Adore L’absolu, Dior J’Adore in Joy, Dior J’Adore Eau de Parfum Infinissime, as well as Dior J’Adore L’Or. <br/>Elegant, feminine, and quintessentially French, Dior’s J’Adore Eau de Parfum exceeds all expectations. It’s the kind of perfume that makes you feel beautiful and confident, as though you’re wearing something extra special (which you are!). You can get a similar experience at a much more affordable price with Dossier’s own Dior J’Adore dupe – Fruity Jasmine. Our replica captures all the luminous, radiant aspects of the iconic floral scent while providing a burst of freshness that is sure to captivate any nose within reach."
+            }
+        },
+        {
+            "id": 14,
+            "name": "CITRUS GINGER",
+            "categoryId": 2,
+            "description": "Chanel's Bleu de Chanel",
+            "price": 29,
+            "reviewsCount": 555,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/citrus-ginger-men-inspired-by-chanels-bleu-de-chanel-651136.jpg?v=1628249147",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/citrus-ginger-men-inspired-by-chanels-bleu-de-chanel-166461.jpg?v=1628248678",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/citrus-ginger-men-inspired-by-chanels-bleu-de-chanel-565352.jpg?v=1628248074",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/citrus-ginger-men-inspired-by-chanels-bleu-de-chanel-640399.jpg?v=1628250668",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/citrus-ginger-men-inspired-by-chanels-bleu-de-chanel-819882.jpg?v=1630494521"
+            },
+            "concentration": 15,
+            "gender": "Masculine",
+            "about": "Citrus Ginger (inspired by Chanel's Bleu de Chanel) opens with a minty freshness combined with fizzy ginger and lemon zest. The scent then unfolds to a base of textural and sophisticated woody notes, with a spicy touch.<br/>Clean, masculine, and qualitative, Citrus Ginger (our impression of Chanel's Bleu de Chanel) is the perfect expression of timeless elegance.",
+            "smells": {
+                "top": "Peppermint, Lemon, Ginger",
+                "middle": "Vetiver, Pink Pepper, Nutmeg",
+                "base": "Sandalwood, Incense, Cedarwood"
+            },
+            "ingredients": "Pink Pepper Ess, Bergamot Ess, Cardamom Ess, Cistus Abs, Lemon Ess, Incense Ess, Galbanum Ess, Geranium Ess, Nutmeg Ess, Orange Ess, Patchouli Ess, Sandalwood Ess, Vetiver Ess, Violet Leaf Abs, Iso E Super, Dihydromyrcenol, Cedramber, Musk T, Timbersilk, Hedione, Habanolide, Helveltolide, Linalyl Acetate, Verdox, Ethyl Linalol, Florol, Muscenone, Vertofix, Citronellol, Methyl Pamplemousse, Ambrox DL, Linalol, Allyl Amyl Glycolate, Mousse LHB/Evernyl.",
+            "details": {
+                "title": "Elegance And Strength in One Fragrance",
+                "content": "Bleu de Chanel is a perfume that has become synonymous with the luxury fashion house. The timeless classic was introduced in 2010 and has remained a favorite among perfume connoisseurs ever since, thanks to its aromatic, fresh, and unmistakably Chanel grapefruit scent.<br/>Bleu’s scent begins at the bottom of the forest floor while slowly rising to the top, clinging to mosses, barks, and leaves to create a stunning canopy of fresh pine.<br/>Citrus and spice are the key opening notes of this cologne. The scent begins with a burst of tart grapefruit and creamy bergamot. While citrus notes are more prominent in the opening act, these are soon followed by the spicier, minty notes from coriander and pepper. Underneath all of this is a slowly arising warm amber, smelling slightly of smoky incense. Glimpses of its true woody nature emerge as the smell takes a delightfully rustic turn. Featuring calming elements of fruit, flowers, and earthy spice, Bleu’s middle notes are very much woodland-like, adding to the blissful chill of being in a pine forest in the mountains. But it’s in the base notes that Bleu de Chanel reaches its peak of freshness. Aromas of rough cedars stand in striking contrast with the sylvan sandalwood from New Caledonia, giving off an overall pleasing, creamy texture to the fragrance.<br/>Overall, we love how the clash of the hard and the smooth lends the scent a vigorous character. Early citrusy scents lend a feeling of lightness to the fragrance without taking away from its serious nature. Meanwhile, the woody and spicy notes (accompanied by a hint of fresh greens) provide Bleu with a pleasing depth and give it a much more masculine aesthetic.<br/>The scent’s staying power, of course, varies according to the concentration you choose. For instance, the Bleu de Chanel Eau de Parfum (EDP) will easily stay on the skin for more than 7 hours. The Bleu de Chanel Parfum, however, is more concentrated and lasts for over 12 hours.<br/>Projection starts out rather strong but gradually settles near the wearer. Not enough to take out a room, but definitely noticeable by someone a few feet away.<br/>Bleu de Chanel has a more formal, sophisticated presence, so it makes for a superb office scent and is excellent for black-tie events. Don’t be afraid to try the fragrance in a more casual setting, such as for an evening out in the city or when you go shopping.<br/>Luxury brands are continuing to push the envelope with innovative new products. Bleu is no exception to the rule, coming in 20 different variants on the perfumer’s website — including a Bleu de Chanel gift set. But don’t let that scare you. There are really only three main fragrances in the collection: Bleu de Chanel Eau De Toilette (EDT), Bleu de Chanel Eau de Parfum, and a stronger Bleu de Chanel Parfum. The Bleu Eau de Toilette is a breath of fresh air with light citrusy notes; the Eau de Parfum, on the other hand, is slightly more formal and has a stronger woody tone.<br/>Also available from the house are Bleu de Chanel deodorant stick, shower gel, moisturizer, and shaving cream.<br/>Inspired by Chanel’s quintessential fragrance, Dossier’s Citrus Ginger presents the same sophisticated combination of woody and citrus notes you’d find in Bleu, with zero compromises and for a fraction of the price. With its clean and masculine scent, Citrus Ginger is a Bleu de Chanel dupe that’s guaranteed to bring out the best in any man."
+            }
+        },
+        {
+            "id": 15,
+            "name": "MUSKY OAKMOSS",
+            "categoryId": 2,
+            "description": "Creed's Aventus",
+            "price": 49,
+            "reviewsCount": 700,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-oakmoss-men-inspired-by-creeds-aventus-765218.jpg?v=1628250193",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-oakmoss-men-inspired-by-creeds-aventus-875594.jpg?v=1628248861",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-oakmoss-men-inspired-by-creeds-aventus-247168.jpg?v=1628248878",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-oakmoss-men-inspired-by-creeds-aventus-521659.jpg?v=1628250530",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-oakmoss-men-inspired-by-creeds-aventus-591064.jpg?v=1630494208"
+            },
+            "concentration": 15,
+            "gender": "Masculine",
+            "about": "Musky Oakmoss (inspired by Creed's Aventus) initially captures our attention with its clean, fresh burst of energy. After some time, it beings to take a turn into the most exclusive perfume writing structure: the Chypre (a blend of bergamot, rose, oakmoss, and patchouli). To end, the scent fades with a soft, subtle musk-infused undertone that’s guaranteed to leave you wanting more.<br/>Fresh, refined, and pleasantly surprising, Musky Oakmoss (our impression of Creed's Aventus) has a kind of British phlegm, hiding high sophistication under a casual appearance.",
+            "smells": {
+                "top": "Apple, Pineapple, Bergamot",
+                "middle": "Rose, Birch Leaf, Patchouli",
+                "base": "Musk, Oakmoss, Amber"
+            },
+            "ingredients": "Orange Flower Abs, Pink Pepper Ess, Patchouli Ess, Black Pepper Ess, Clary Sage Ess, Hedione, Iso E Super, Ambroxan, Helveltolide, Musk T, Coranol, Linalyl Acetate, Mousse LHB/Evernyl, Linalol, C10 Aldehyde.",
+            "details": {
+                "title": "A Quality Creed Aventus Dupe at a Fraction of the Price",
+                "content": "Creed Aventus for men is the vanguard of a secular renaissance of masculine virtue, celebrating the exuberance and strength of iconic leaders like Napoleon Bonaparte and Alexander the Great. Taking cues from the power of conquest, strength, and romantic soul, Creed’s iconic cologne grants an undeniable sense of confidence, allowing men all over the world to start each day fresh with sanguine confidence. But what does Creed Aventus smell like?<br/>Creed Aventus is a unique blend of woody, sweet, and citrusy scents.<br/>Aventus opens with a refreshing pineapple note — a bold yet aggressive choice unlike any other. Fresh apple and bergamot add to its juicy sharpness, providing even more tartness to the composition. Skilled perfume connoisseurs might also pick up on the faint hints of blackcurrant that further intensify the fruity fragrance. An aftertaste of smoky flavor may accompany the first fruity blast. This is the birch, which keeps its sharpness but adds some power and anchor to the composition. It acts as a vital component of the blend, keeping it from becoming overly sweet or tangy. Finally, Creed Aventus rounds it all off with a pleasant yet slightly musky vanilla note, leaving behind a lingering fragrance that embodies the courage and ability of a true Napoleon.<br/>The scent may linger on your skin for over 12 hours, which is impressive as far as perfumes go. Aventus also has excellent projection and sillage, making it noticeable even from a distance.<br/>Naturally all this comes with a price tantamount to the Creed Aventus’ iconic status. The Creed brand is a luxury house with a specialty in luxury fragrances. And at $335 per 1.7 Fl oz bottle, Aventus sits comfortably at the top premium range of its products. Remember that above a certain price point, you’re not just paying for the fragrance — you’re paying for the brand, for the bottle, and for the market’s perception of the fragrance’s value.<br/>Having enjoyed great success with Aventus for Men, Creed decided to deliver their approach of a more feminine version, Aventus for Her. Introduced in 2016, the new fragrance drew inspiration from the most influential women of history — monarchs, queens, and heads of state — as well as modern women who constantly challenge convention. The Aventus for Her Eau de Parfum shares the same woody and fruity undertones as its masculine counterpart.<br/>Taking inspiration from Creed Aventus, Dossier’s Musky Oakmoss embodies similar characteristics of strength, power, and success. Our Creed Aventus clone is engineered to reflect the same taste notes as Creed’s masterpiece. With the same fruity punch swinging in tandem with a soft, subtle musk-infused undertone, our Creed Aventus dupe hits all the right notes when it comes to quality, excellence, and class — all at a fraction of the original cost."
+            }
+        },
+        {
+            "id": 16,
+            "name": "FOUGERE BERGAMOT",
+            "categoryId": 2,
+            "description": "Versace's Dylan Blue",
+            "price": 29,
+            "reviewsCount": 1482,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fougere-bergamot-men-inspired-by-versaces-dylan-blue-530343.jpg?v=1628248802",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fougere-bergamot-men-inspired-by-versaces-dylan-blue-705163.jpg?v=1628249424",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fougere-bergamot-men-inspired-by-versaces-dylan-blue-798633.jpg?v=1628250143",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fougere-bergamot-men-inspired-by-versaces-dylan-blue-450387.jpg?v=1628249603",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fougere-bergamot-men-inspired-by-versaces-dylan-blue-682641.jpg?v=1630494385"
+            },
+            "concentration": 15,
+            "gender": "Masculine",
+            "about": "Fougere Bergamot (inspired by Versace's Dylan Blue) opens with a splash of grapefruit and bergamot, enhanced by the coolness of an aquatic accord. A touch of fig leaf and lavender reinforces the Mediterranean inking of the fragrance. The heart and base of the scent blend geranium, tonka bean, and patchouli - key ingredients of the fougere family - modernized with ambroxan, a high-end molecule with woody and musky inflections.<br/>Cool and invigorating, Fougere Bergamot (our impression of Versace's Dylan Blue) has a long-lasting masculine freshness.",
+            "smells": {
+                "top": "Bergamot, Grapefruit, Fig Leaf",
+                "middle": "Geranium, Lavender, Aquatic Accord",
+                "base": "Tonka Bean, Patchouli, Ambroxan"
+            },
+            "ingredients": "Pink Pepper Ess, Cardamom Ess, Cedar Leaf Ess, Lemon Ess, Incence Ess, Geranium Ess, Arvensis Mint Ess, Patchouli Ess, Rosemary Ess, Vetiver Ess, Iso E Super, Dihydromyrcenol, Timbersilk, Linalyl Acetate, Musk T, Habanolide, Hedione, Linalol, Verdox, Cedramber, Florol, Methyl Pamplemousse, Coumarin, Cedrol, Cashmeran, Ambrox DL, Citronellol, Bacdanol, Coranol, Ambrocenide, Sandalore, Ethyl Linalol, Magnolan, Calone, Polysantol, Allyl Amyl Glycolate, Mousse LHB/Evernyl, Cyclo Hexyl Prop Allyl, Boisambrene, Amberketal, Alpha Damacone, Isoraldeine 95, Z11.",
+            "details": {
+                "title": "Experience the Sensual Scents of the Mediterranean",
+                "content": "In the words of renowned Italian fashion designer, socialite, and businessman Gianni Versace, \"In today’s world, men feel able to reveal their true natures, to share their passions and their beliefs\". We’ve grown to trust the House’s ability to create amazing products that reflect its vision. So, it came as no surprise to us when Versace introduced Dylan Blue, a scent that so perfectly captures the Versace character in a bottle.<br/>Versace Dylan Blue was released in 2016 with promises to deliver lasting freshness to the senses. Fresh and uplifting, this fragrance is an ambroxan explosion of citrus and spices. There’s also this fresh-out-the-shower scent profile, filled with synthetic citrus, aquatic, and incense notes that gives it a distinctly youthful aroma.<br/>Initial impressions are aquatic, with notes of citrusy grapefruit and Calabrian bergamot that create a fresh presence. Also present is an ambroxan note mixed with fig leaves, which only gets stronger as the scent progresses. Dylan Blue’s strong masculine layer exists at the heart of the fragrance, juxtaposing classic black pepper with an excellent combination of violet leaves and patchouli. It’s also at this point that you’ll experience that all-too-familiar shower gel smell you’d expect from Versace. It’s invigorating, although not for everyone. As Dylan Blue dries down, the citrus settles, allowing for a greater flourish of ambroxan. You’ll also detect a seductive, earthy blend of tonka beans, mineral musk, and saffron in between the final notes.<br/>The fig note paired with the citrus note at the top is very pleasing. It has this desirable zingy taste, making this masculine scent all the more exciting. Plus, the fig and aquatic notes set it apart from the rest of the competition (Bleu, we’re looking at you). Overall, it’s a delightful scent of youthful masculinity all around, even if the lingering notes of ambroxan can be a little heavy at some moments.<br/>The beauty of Dylan Blue lies in its versatility. You can wear it almost anywhere, even in warm weather. It also performs well, easily lasting more than six hours. The scent isn’t offensive and typically belongs in the crowd-pleaser category. The fragrance projects well, too, so expect to be noticed everywhere you go.<br/>Versace Dylan Blue is a gender-bending scent. There are two variants for both men and women (Pour Homme and Pour Femme, respectively). You can get it as an Eau de Toilette (EDT), with an additional after shave lotion, deodorant, and bath & shower gel. A Versace Dylan Blue gift set is also available, containing an EDT spray, aftershave balm, and a perfumed bath & shower gel.<br/>Dossier’s Fougere Bergamot might be just the thing for you if you’re looking for something fresh and masculine but at a far more affordable price. Our Versace Dylan Blue dupe showcases its distinct layer of masculinity with fresh, soft notes that linger throughout the day. And combined with a slightly sweet, musky base, our replica of Versace Dylan Blue delivers the same amounts of sensuality that has become so synonymous with the famous Italian design house and its products."
+            }
+        },
+        {
+            "id": 17,
+            "name": "CITRUS NEROLI",
+            "categoryId": 2,
+            "description": "Tom Ford's Neroli Portofino",
+            "price": 39,
+            "reviewsCount": 1307,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/citrus-neroli-unisex-inspired-by-tom-fords-neroli-portofino-884291.jpg?v=1628250651",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/citrus-neroli-unisex-inspired-by-tom-fords-neroli-portofino-699102.jpg?v=1628250265",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/citrus-neroli-unisex-inspired-by-tom-fords-neroli-portofino-499141.jpg?v=1628249130",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/citrus-neroli-unisex-inspired-by-tom-fords-neroli-portofino-303058.jpg?v=1628249964",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/citrus-neroli-unisex-inspired-by-tom-fords-neroli-portofino-993261.jpg?v=1630494221"
+            },
+            "concentration": 18,
+            "gender": "Masculine",
+            "about": "Citrus Neroli (inspired by Tom Ford's Neroli Portofino) lifts traditional Cologne structure up, mixing armfuls of effervescent, fizzing citrus notes. In this fragrance, association of musk and neroli (distilled orange blossom) brings a pure cleanness sensation, also carrying softness and long lastingness to the sparkling freshness.<br/>Directly inspired by the smells and sensations of the Italian Riviera, Citrus Neroli (our impression of Tom Ford's Neroli Portofino) combines freshness and warmth.<br/>Hidden behind an apparent simplicity, the beauty of this complex construction can make it surprisingly addictive, though.",
+            "smells": {
+                "top": "Neroli, Bergamot, Mandarin, Lemon",
+                "middle": "Orange Blossom, Jasmine, Lavender",
+                "base": "Musks, Amber"
+            },
+            "ingredients": "Bergamot Ess, Cardamom Ess, Lemon Ess, Lavandin Ess, Lime Ess, Mandarin Ess, Neroli Ess, Rosemary Ess, Hedione, Habanolide, Musk T, Linalyl Acetate, Linalol, Ethyl Linalyl Acetate, Exaltolide, Velvione, Muscenone, Muscone, Methyl Anthranilate, Dihydromyrcenol, Oranger Crystals, Hydroxycitronellal, Geranyl Acetate, Neryl Acetate, Geraniol.",
+            "details": {
+                "title": "For All That Is Beautiful",
+                "content": "Inspired by the rich citrusy scent of neroli – a flower lending its name from the Italian Riviera, Neroli Portofino in the Tom Ford collection calls to mind the unique olfactory properties of its eponym – fresh, honeyed, and full of floral luxury. The fragrance stands out from other brands, transporting you to a blissful stroll amidst lemon trees and myrtle bushes, with the wonderful smell of verdant foliage lingering in the crisp hot air of a summer’s day. That is why we love Neroli Portofino – its citrusy-floral scent, earthy yet clean – paints us an astounding picture of Mother Nature’s raw beauty.<br/>The brainchild of Rodrigo Flores-Roux, Tom Ford’s Neroli Portofino hits the air first with clean citrusy notes featuring lemon, bergamot, and bitter orange. The perfume emits a refreshing fragrance calling to mind a sparkling rivulet of water along the lemon meadow during an early summer’s frolic. Middle notes of floral delicacy then follow through with aromas of jasmine and neroli – entangling to form a complex combination of rich floral fruitiness with a tinge of spiciness, granting it a wild touch of sensuality.<br/>As the perfume dries down, the base notes of ambrette and angelica reveal themselves, slicing through the floral punch with a scent of musky woodiness. The ambrette effuses a nutty fragrance that gently subtracts from the acidic sweetness – like a stir of light cool breeze waltzing through a lush tropical forest.<br/>A perfume paying homage to an Italian Princess, Neroli Portofino is aristocracy and hopeful melancholy captured in a bottle – a fragrance both exotic and enticing. It is a successful fusion of antiquity with poise, of rawness with refinement.<br/>An Eau De Parfum (EDP), Neroli Portofino comes in 30 ml, 50 ml, and 100 ml respectively. While its projection lasts for one to two hours after application, the fragrance will cling lightly to the skin for roughly five to six hours. If you’re not a fan of its citrusy-floral concentration, a subtler flanker – Neroli Portofino Acqua – may appeal to you. The floral sweetness of Nero Portofino Acqua is reduced to just a whiff, whirling you into its ambrette base with a water-like fluidity. However, if you prefer a variation that accentuates the greener notes, Tom Ford obliges you with Neroli Portofino Forte. A tangier flanker refined with scents of leather and sandalwood; it is perfect for colder climates with the longevity of ten to twelve hours. Other than the EDP, the Neroli Portofino fragrance is also available as Neroli Portofino Body Spray and Neroli Portofino Candle.<br/>If the olfactory picture of Tom Ford’s Neroli Portofino enthralls you, don’t let its hefty price tag hinder you. Here at Dossier.co, we present you with Citrus Neroli, a Tom Ford Neroli Portofino dupe offering all the charms of Neroli Portofino for a fraction of its price. Citrus Neroli bursts open in clean citrusy notes of lemon, bergamot, and mandarin. The dry-down diffuses a blend of musk and neroli, making it a delightful mixture of woody sweetness and floral softness. Don’t be fooled by its simplicity, though – its appeal of refreshing airiness can compel you to addiction."
+            }
+        },
+        {
+            "id": 18,
+            "name": "SPICY VANILLA",
+            "categoryId": 2,
+            "description": "Tom Ford's Noir",
+            "price": 39,
+            "reviewsCount": 1105,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-vanilla-men-inspired-by-tom-fords-noir-159610.jpg?v=1628248108",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-vanilla-men-inspired-by-tom-fords-noir-650844.jpg?v=1630924094",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-vanilla-men-inspired-by-tom-fords-noir-237469.jpg?v=1628249330",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-vanilla-men-inspired-by-tom-fords-noir-811076.jpg?v=1628248940",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-vanilla-men-inspired-by-tom-fords-noir-789477.jpg?v=1630494099"
+            },
+            "concentration": 15,
+            "gender": "Masculine",
+            "about": "Spicy Vanilla (inspired by Tom Ford's Noir) opens with a burst of hot spices, led by nutmeg and black pepper. The scent keeps heating up with the introduction of vanilla, amber, and opoponax (a resin vegetal that’s smoky and soft, luminous and sensual all at once).<br/>Warm and mysterious, Spicy Vanilla (our impression of Tom Ford's Noir) evokes a sense of raw, sensual masculinity.",
+            "smells": {
+                "top": "Nutmeg, Black Pepper, Lemongrass",
+                "middle": "Rose, Patchouli, Orris",
+                "base": "Vanilla, Amber, Opoponax"
+            },
+            "ingredients": "Pink Pepper Ess, Benzoin Siam Res, Bergamot Ess, Cardamom Ess, Caraway Ess, Elemi Ess, Geranium Ess, Lavender Ess, Marjoram Ess, Opoponax Abs, Patchouli Ess, Black Pepper Ess, Iso E Super, Linalol, Hedione, Vertofix, Dihydromyrcenol, Ethyl Vanilline, Exaltolide, Exaltenone, Linalyl Acetate, Cinnamic Alcohol, Hydroxycitronellal.",
+            "details": {
+                "title": "A Blend of Classy Elegance and Edgy Masculinity",
+                "content": "Make a powerful statement with Noir, the bold Eau de Parfum launched by the Tom Ford design house in 2012. Imbued with Tom Ford’s signature edge and classic elegance, this perfume maintains a level of class and comfort throughout its lifespan – one that has become synonymous with the popular American/Italian luxury house.<br/>Black is the name of the game here. As its name suggests, Noir (or black) conjures images of a shadowy, mysterious, and intriguing room. But as you adjust your eyes, you see sparkling glimmers all-around – opulent, rich jewels glow in all corners, piercing the darkness. These are the essences of velvety rose bouquets. Combined with warmer spice notes, they fill the once-gloomy room with a sophisticated, dark, and exquisite aroma.<br/>But for something so dark and enigmatic, Tom Ford’s Noir cologne certainly opens with a bright flash. The fragrant sweetness of verbena and the delicious tang of bergamot rise from the spicy heat of pink pepper and caraway. All this is balanced over a cool, aromatic heart of clary sage and geranium. The scent is not all that black or dark in this initial stage. Not yet. Rather, it’s pleasant and well balanced – placing sassy and sweet flowers on one hand and warm, masculine spices on the other. But once Noir’s initial sharpness fades, it becomes incredibly powdery, gradually taking on the characteristics of something much richer and more profound. Velvety vanilla and silky amber combine with dark, gourmand accents near the base. The further addition of dark patchouli, along with the golden vanillic glaze, fully transforms Tom Ford’s Noir into a truly dark, foreboding fragrance. Here, Tom Ford’s Noir truly comes into its own – developing into a scent that oozes mystery and a heavy, dark unknown.<br/>If you’re shopping for a timeless, luxurious fragrance that infuses you with confidence and gives you an irresistible presence, look no further than Tom Ford’s Noir collection. Tom Ford’s Noir perfume is available from most online retailers, where it goes for $205 for a 50 ml (1.7 oz) bottle, $280 for a 100 ml (3.4 oz) bottle, and $495 for a 200 ml (8.45 oz) bottle.<br/>Soon after the original Noir perfume, Tom Ford introduced Noir Extreme, available in a 100 ml (3.4 oz) and a smaller 50 ml (1.7 oz) bottle. Compared to the original, the Extreme variant is more opulent with a deeper, stronger undertone of amber, sandalwood, and vanilla.<br/>This release was also followed by Tom Ford Noir Pour Femme, a more feminine version of the fragrance that’s warmer and softer than Tom Ford Noir Extreme. Unfortunately, Noir Pour Femme has since been discontinued, making it difficult to find at the moment.<br/>Tom Ford’s Noir is an intoxicating and iconic scent for men who like the idea of discovering the world through its sophisticated prowess. For an equally powerful scent at a quarter of the price, consider Dossier’s Spicy Vanilla. Taking strong cues from the original, our Tom Ford Noir dupe possesses the same air of warmth and mystery that is sure to complete any man’s masculinity."
+            }
+        },
+        {
+            "id": 19,
+            "name": "FOUGERE PINK PEPPER",
+            "categoryId": 2,
+            "description": "Gucci's Guilty",
+            "price": 29,
+            "reviewsCount": 987,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fougere-pink-pepper-men-inspired-by-guccis-guilty-440427.jpg?v=1628250029",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fougere-pink-pepper-men-inspired-by-guccis-guilty-692615.jpg?v=1628249767",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fougere-pink-pepper-men-inspired-by-guccis-guilty-935679.jpg?v=1628250308",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fougere-pink-pepper-men-inspired-by-guccis-guilty-207305.jpg?v=1628248254",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/fougere-pink-pepper-men-inspired-by-guccis-guilty-382352.jpg?v=1630494067"
+            },
+            "concentration": 12,
+            "gender": "Masculine",
+            "about": "Fougere Pink Pepper’s hook (inspired by Gucci's Guilty) is a spicy green accord full of freshness. Behind this vivacious opening, a masculine, woody, ambery structure gradually expresses itself fully.<br/>Contrasted, sensual, and intriguing, Fougere Pink Pepper (our impression of Gucci's Guilty) is both the warmest and the freshest amongst the masculine fragrances.",
+            "smells": {
+                "top": "Pink Pepper, Lemon, Neroli",
+                "middle": "Orange Blossom, Lavender, Geranium",
+                "base": "Amber, Patchouli, Cedarwood"
+            },
+            "ingredients": "Pink Pepper Ess, Bergamot Ess, Lemon Ess, Lavender Ess, Mandarine Ess, Orange Ess, Patchouli Ess, Rosemary Ess, Dihydromyrcenol, Iso E Super, Linalyl Acetate, Hedione, Musk T, Linalol, Ethyl Linalol, Bacdanol, Cedramber, Cis-3-Hexenyl Salicylate, Verdox, Hydroxycitronellal, Florol, Calone, Benzyl Salicylate, Amyl Salicylate, Methylionone, Melonal, Ambroxan, Vanilline.",
+            "details": {
+                "title": "Gucci Guilty – Freedom’s Fragrance",
+                "content": "First launched in 2010 and now a house legend, the Gucci Guilty fragrance line has evolved over time and has even been dubbed one of the most sought-after scents in the 21st century. It’s a hallmark fragrance that plays on being \"guilt-free\", encapsulating the notion of complete liberation — one that allows you to take risks and be whoever you want to be.<br/>You’ll notice that Gucci Guilty is a fragrance that both men and women can share. Smelling of a life lived free of unreasonable expectations, Guilty is an effortlessly unisex fragrance that sits comfortably within the same sphere as similarly gender-neutral fragrances such as Le Labo’s Santal 33 and CK’s CK One.<br/>The fragrance perfectly captures the unconventional notion underlying the Italian house’s agnostic approach to perfumery in search of the perfect olfactory and emotional union of both sexes. This is clearly evident in the fragrance’s notes. Despite being traditionally \"feminine\" in nature, Gucci Guilty Pour Femme incorporates pink pepper, a traditional ingredient in many men’s perfumes. Similarly, the male-oriented Gucci Guilty Pour Homme blurs gender lines by using ingredients associated with more romantic ideals – orange blossom absolute, white floral with honey tones, neroli, and French lavender.<br/>Gucci Guilty opens with an initial explosion of pink pepper, Amalfi lemon, and lavender. In the heart of this evocative scent lies a complex and nuanced bouquet of aphrodisiac orange blossom – stimulating and entrancing – fused with neroli and rich, verdant aromatic notes. It’s nothing but a celebration of bold, confident masculinity. As the fragrance’s final phase unfolds, patchouli, a signature Gucci scent, gains a new strength bolstered by the inclusion of earthy cedarwood. This gives the perfume an overall light intensity tempered with warm spice.<br/>Gucci Guilty is glaringly bright but delicately soft at the same time. And that’s the beauty of it. For that reason, it’s a fragrance that can be worn for any occasion: at work, out shopping, on a date, or special occasions. Just spritz some on your neck, and you’re good to go. We’d lean more toward using this during the day since it isn’t quite sultry enough for a night out.<br/>Guilty has several perfumes in its fragrance line, each with a different color, a different bottle, and a different story. Rotate between the original Gucci Guilty or other iconic flankers such as Gucci Guilty Intense or Gucci Guilty Absolute. Maybe even add a touch of the new with the limited-edition Gucci Guilty Love, a modern, spicy fougère take on the original. Men can explore Gucci’s more expressive offerings in the form of Gucci Guilty Black or, for an even more romantic scent, Gucci Guilty Eau de Toilette cologne. In addition to a spray, Guilty is also available as an aftershave lotion, shower gel, and deodorant.<br/>Pink Pepper Fougere from Dossier is a luxury perfume without the luxury price. After all, you wear the scent, not the bottle. This Gucci Guilty replica shares the same spicy green accord that melds into a woody base, creating a contrasted, sensual, and intriguing scent. Dossier’s Gucci Guilty dupe might just be the perfect mix of expressive masculinity and edginess your lifestyle calls for."
+            }
+        },
+        {
+            "id": 20,
+            "name": "AMBERY MINT",
+            "categoryId": 2,
+            "description": "Versace's Eros",
+            "price": 29,
+            "reviewsCount": 1111,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-mint-men-inspired-by-versaces-eros-120094.jpg?v=1628250151",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-mint-men-inspired-by-versaces-eros-859046.jpg?v=1628249740",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-mint-men-inspired-by-versaces-eros-544920.jpg?v=1628249505",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-mint-men-inspired-by-versaces-eros-240543.jpg?v=1628250554",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/ambery-mint-men-inspired-by-versaces-eros-677548.jpg?v=1630494246"
+            },
+            "concentration": 15,
+            "gender": "Masculine",
+            "about": "Ambery Mint (inspired by Versace's Eros) is all about contrast. We start with lively notes of icy mint, zesty lemon, and cool green apple, then gradually evolve towards warmer notes of vanilla, amber, and tonka bean. With the sweetness of vanilla, the intensity of almond, and a cocoa finish, if you’ve never enjoyed tonka bean, you’re in for a treat.<br/>Assertive, warm, and with a touch of freshness on top, Ambery Mint (our impression of Versace's Eros) offers a seductive awakening.",
+            "smells": {
+                "top": "Mint, Green Apple, Lemon",
+                "middle": "Geranium, Cedarwood, Vetiver",
+                "base": "Vanilla, Amber, Tonka Bean"
+            },
+            "ingredients": "Benzoin Res, Bergamot Ess, Cardamom Ess, Atlas Cedarwood Ess, Cedarwood Ess, Cypress Ess, Geranium Ess, Lavandin Ess, Orange Ess, Clary Sage Ess, Iso E Super, Dihydromyrcenol, Verdox, Hedione, Methyl Pamplemousse, Vanilline, Amberketal, Linalyl Acetate, Coumarine, Ethyl Linalol, Nimberol, Isoraldeine 95, Ambrocenide, Cashmeran, Cis-3-Hexenyl Salicylate, Boisambrene, Citronellol.",
+            "details": {
+                "title": "A Quality Alternative to Versace’s Iconic Fragrance For Men",
+                "content": "Versace Eros for Men draws inspiration from ancient Greek myths and shares the same dark, sensual theme central to many other classic masculine fragrances. Named after the Greek god of love, Versace’s Eros embodies a powerful yet youthful character — one that truly befits the modern man.<br/>Now, what does Versace Eros smell like? Versace Eros is big, sharp, and bold. And we mean that in the best possible way. It’s hard to find anything subtle about this fragrance, and perhaps that’s why we enjoy it so much. There’s just something so addictive about the fragrance’s provocative, intrepid scent that awakens the fearless spirit of boundless exploration within.<br/>Mint, green apple, and lemon dominate the opening notes of Eros, making a loud and boisterous statement. There’s an initial sharpness to it, but soon you’ll notice more calming smells like a herbaceous taste of geranium layered with rich, musky ambroxan. Eventually, you’ll get to the deeper tones of vanilla and cedar, rounding off the scent for a sweet, dark, forest finish.<br/>Versace Eros certainly provides a strong opening, followed by punchy scents throughout. It makes a wonderful fragrance for men who are keen on an audacious scent that won’t overwhelm. In general, however, we find it lighter and sweeter than most and a bit more androgynous than its scent profile suggests. For this reason, we think it could also make an appealing choice for women looking to add a slightly more masculine aesthetic to their collection.<br/>Versace Eros possesses the perfect blend of mint and vanilla, ideal for daytime use. Despite its lightness, it still has a strong scent, so as with any fragrance, the golden rule is not to overapply.<br/>For evening wear, Versace Eros is an amazing choice. Strength proves to be its most valuable feature here, as the scent stays on your skin all night. Young and invigorating, this is an overall great choice for a night out in the city.<br/>There have been several variations of Versace’s Greek-inspired line of fragrances over the years. Among these are the bestselling Versace Eros Eau de Toilette, accompanied by Versace Eros Eau de Parfum, Versace Eros Flame cologne, and Versace Eros Pour Femme.<br/>Dossier’s Ambery Mint takes heavy inspiration from Versace Eros. With Ambery Mint, our goal was to impart the same sensation of warmth, freshness, and assertiveness you’ll only find in fragrances far exceeding its price point.<br/>And true to its mythical roots, Dossier’s Versace Eros dupe offers an excellent alternative to Versace’s legendary Greek-inspired fragrance, with a similar stimulating and masculine blend of sparkling mint mixed with sweet, herbaceous, and woody undertones."
+            }
+        },
+        {
+            "id": 21,
+            "name": "MUSKY ALDEHYDES",
+            "categoryId": 3,
+            "description": "Byredo's Blanche",
+            "price": 39,
+            "reviewsCount": 39,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-aldehydes-unisex-inspired-by-byredos-blanche-604999.jpg?v=1644868033",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-aldehydes-unisex-inspired-by-byredos-blanche-392672.jpg?v=1644868040",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-aldehydes-unisex-inspired-by-byredos-blanche-852676.jpg?v=1644868020",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-aldehydes-unisex-inspired-by-byredos-blanche-130760.jpg?v=1644868026",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-aldehydes-unisex-inspired-by-byredos-blanche-866096.jpg?v=1644868015"
+            },
+            "concentration": 18,
+            "gender": "Unisex",
+            "about": "Musky Aldehydes (inspired by Byredo's Blanche) offers the pure and dewy sensation of fresh peony, lily, rose, and freesia enhanced by a touch of pink pepper. However, the originality of this composition lies in the presence of aldehydes. Synthetic molecules, discovered more than a century ago, aldehydes evoke a clean and fresh atmosphere. Musks and sandalwood in the base reinforce a soft and immaculate feeling.<br/>Pure, clean, intimate, Musky Aldehydes (our impression of Byredo's Blanche) is a second skin scent. Its unique evocation of fresh laundry on the line and the feel of skin will quickly get you hooked.",
+            "smells": {
+                "top": "Aldehydes, Peony, Pink Pepper, Lily ",
+                "middle": "Freesia, Rose, Violet, Jasmine ",
+                "base": "Musks, Sandalwood"
+            },
+            "ingredients": "Pink Pepper Ess, Geranium Egypt Ess, Rose Ess, Sandalwood Ess, Verdyl Acetate, Hedione, Cyclamen Aldehyde, Vanilline, Magnolan, Isoraldeine, Cyclaprop, Phenylethyl Alcohol, Muscenone, Sandalore, Floralozone, Cashmeran, Citral, Myrcenyl Acetate, Vanilline, Anisic Alcohol",
+            "details": {
+                "title": "",
+                "content": ""
+            }
+        },
+        {
+            "id": 22,
+            "name": "SPICY ORCHID",
+            "categoryId": 3,
+            "description": "Tom Ford's Black Orchid",
+            "price": 39,
+            "reviewsCount": 1510,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-orchid-unisex-inspired-by-tom-fords-black-orchid-454339.jpg?v=1628249890",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-orchid-unisex-inspired-by-tom-fords-black-orchid-523080.jpg?v=1628249481",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-orchid-unisex-inspired-by-tom-fords-black-orchid-360974.jpg?v=1628248821",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-orchid-unisex-inspired-by-tom-fords-black-orchid-758161.jpg?v=1628248131",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/spicy-orchid-unisex-inspired-by-tom-fords-black-orchid-700364.jpg?v=1630494402"
+            },
+            "concentration": 18,
+            "gender": "Unisex",
+            "about": "Spicy Orchid (inspired by Tom Ford's Black Orchid) opens with a combination of cinnamon, pink pepper, and ylang-ylang. Together, these pairings drive directly to the orchid heart. Rich and multi-faceted, as the fragrance evaporates, patchouli, creamy sandalwood, plum, and vanilla wrap the orchid in an opulent trail.<br/>Dense, assertive, and sensuous, Spicy Orchid (our impression of Tom Ford's Black Orchid) is an intoxicating floral scent, reminiscent of exotic summer nights.",
+            "smells": {
+                "top": "Cinnamon, Pink Pepper, Mandarin",
+                "middle": "Ylang Ylang, Orchid, Plum",
+                "base": "Sandalwood, Vanilla, Incense, Patchouli"
+            },
+            "ingredients": "Pink Pepper Ess, Lemon Ess, Patchouli Ess, Vetiver Ess, Ylang Ess, Exaltolide, Iso E Super, Hedione, Vanlline, Bacdanol, Linalol, Habanolide, Vertofix, Beta Ionone, Florol, Cinnamic Alcohol, Ambrox DL, Aldehyde C18, Vetynal, Canthoxal, DMBC Butyrate, Sandalore, Citronellol, Benzyl Acetate, Cis-3-Hexenyl Salicylate, Linalyl Acetate, Coumarine, Geraniol.",
+            "details": {
+                "title": "The Perfect Floral Scent — Sexy and Intoxicating",
+                "content": "Tom Ford’s Black Orchid is an insanely popular scent and the debut fragrance in the House’s beauty line. This iconic scent came out in 2006, so you’ve likely encountered it before. In any case, it’s been talked about and praised for well over a decade now. And even today, years later, it holds a particular spot of fascination among the hardiest noses in the industry.<br/>Black Orchid was born from Tom Ford’s seemingly impossible quest to find the “perfect flower”. This is a floral ingredient so luxurious, elegant, and sophisticated — an elusive bloom that, when bottled, will never be matched. There’s just one problem: a flower -ike that doesn’t exist, at least on paper. Yet one whiff of this bottle, and you’re inclined to believe that perhaps he was successful after all. That perhaps, in some recesses of a thick rainforest, Ford had finally discovered the mysterious, perfect floral component. All that was left was to bottle it, slap on a label, and call it something sexy (maybe something like “Black Orchid”?).<br/>Anyhow, this is a striking perfume composition, radiating a uniqueness and depth that defines a modern cologne. Tom Ford’s Black Orchid is ambery-floral in nature. It’s a very rich and layered scent, backed by a patchouli and woodsy base. The floral-spice combination is, in a way, very hypnotic. There’s a delicate touch of Mexican chocolate and truffle in there, too. Very sweet; very sensual — this is a perfect dark perfume that smells fresh and streamlined, like a straight blow-dry hairdo with frizz-free strands.<br/>Black Orchid’s first spray gives you a fruity-floral mixture with layers of blackcurrant, lemon, and jasmine. The scent is sweet, almost licorice-like. Cut to the heart of the fragrance, which brings with it something immediately earthy and dark. We’d attribute this to the black truffle (mushrooms!). It’s certainly a welcome contrast to the much sweeter opening. As the fragrance fades, you’ll detect patches of patchouli, followed by floral notes and, finally, a creamy vanilla-sandalwood note. The dry down for Black Orchid is rather warm and, personally, our favorite phase of the fragrance.<br/>Tom Ford’s Black Orchid has excellent longevity, lasting well over eight hours after application. This is potent stuff — no doubt about it. Great projection in the first two to three hours too, with a sillage that trails up to several feet away. And as you might expect, a fragrance of this potency is better reserved for special occasions, rather than being worn every day to work or the gym. An excellent option for a night out, a formal event, or a date.<br/>As a whole, we think this fragrance is an excellent pick for men or women looking to be unique, alluring, and sexy. Tom Ford’s Black Orchid is available as both an Eau de Parfum and a Parfum, the latter of which is much more intensified.<br/>Looking for something new and fresh while still maintaining the comfort and familiarity of this much-loved scent? Dossier has created a replica of Tom Ford’s Black Orchid in Spicy Orchid. Ours is a dense, assertive, and sensuous fragrance, reminiscent of the original’s distinctive notes. Featuring the same patchouli and vanilla base notes, our Tom Ford Black Orchid dupe is just a tad spicier with added notes of cinnamon for a unique twist, without taking away from Black Orchid’s sensual vibe."
+            }
+        },
+        {
+            "id": 23,
+            "name": "POWDERY TOBACCO",
+            "categoryId": 3,
+            "description": "Tom Ford's Tobacco Vanille",
+            "price": 39,
+            "reviewsCount": 1107,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/powdery-tobacco-new-unisex-inspired-by-tom-fords-tobacco-vanille-455701.jpg?v=1643131664",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/powdery-tobacco-new-unisex-inspired-by-tom-fords-tobacco-vanille-345237.jpg?v=1643131752",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/powdery-tobacco-new-unisex-inspired-by-tom-fords-tobacco-vanille-482252.jpg?v=1643131731",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/powdery-tobacco-new-unisex-inspired-by-tom-fords-tobacco-vanille-125812.jpg?v=1643131332",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/powdery-tobacco-new-unisex-inspired-by-tom-fords-tobacco-vanille-360967.jpg?v=1643131717"
+            },
+            "concentration": 18,
+            "gender": "Unisex",
+            "about": "Powdery Tobacco (inspired by Tom Ford's Tobacco Vanille) sublimates the unique scent of tobacco leaves. Fruity and sweet honey facets of tobacco are highlighted, and lit up by a touch of ginger. Then, the fragrance unfolds at the base for more depth thanks to vanilla, tonka bean, and gourmand notes of dry fruit and cacao.<br/>Opulent, highly qualitative, and assertive, Powdery Tobacco (our impression of Tom Ford's Tobacco Vanille) perfectly reinvents the cozy atmosphere of the lounge in a London club.",
+            "smells": {
+                "top": "Tobacco, Ginger, Apricot",
+                "middle": "Honey, Vanilla, Cocoa",
+                "base": "Tonka Bean, Dry Fruits, Blond Woods"
+            },
+            "ingredients": "Benzoin Res, Cacao Abs, Cinnamon Bark Ess, Cistus Ess,Incense Ess, Tonka Bean Abs, Ginger Ess, Clove Bud Ess, Tolu Abs, Iso E Super, Vanilline, Ethyl Vanilline, Timbersilk, Bicyclononalactone, Heliotropine, Linalol, DMBC Butyrate, Benzyl Alcohol, Campher, Maltol, Eugenol, Dihydro Beta Ionone, Geraniol, Coumarin, Ambroxan, Acetyleugenol.",
+            "details": {
+                "title": "An intoxicating blend of opulence and charm",
+                "content": "Capturing the soothing smell of opulence, the contemporary classic Tom Ford’s Tobacco Vanille hurls you to the Gower Peninsula – with the sparkling blue waters and the pretty goldcrests. It is a no-brainer first pick for when you’re vacationing on Mount Desert Island.<br/>This is a distinct scent that compels, seduces, and mesmerizes. Plus, it is stylish and adaptable enough to meet the needs of both men and women. Delve into the most adventurous roots of love as top notes of tobacco leaf and spice massage your olfactories. Release your inherent verve as middle notes of vanilla, cacao, and tonka bean imbue you with youthfulness. Receive inspiring visions of glacier-carved cliffs and granite hills as base notes of dried fruits and woody notes tease your senses.<br/>Wear it when you’re heading out to meet that special someone. Just clothe up, spritz, and bring out your best, most confident self. Tom Ford’s Tobacco Vanille is suitable for those who truly appreciate life’s little pleasures. It is a tender floral in the palm of your hand that arouses your senses and heals your soul. It is addictive and invigorating while yet being appropriate for every function.<br/>Only few scents are capable of providing sensory immersion as this perfume does. It is zesty enough to summon a wide awake feeling akin to touring the cliff-hanging, whitewashed villas of Santorini Caldera. Feel the essences of love, beauty, glitz, and glamor as they stroke you gently in the face. It is an otherworldly affair from first opening to the last. If you want to smell as fresh as midwinter virtually all the time, Tom Ford’s Tobacco Vanille is the scent for you.<br/>To get this fragrance, visit your favorite online retailer and look up ‘Tom Ford scents.’ You can get the Tom Ford Private Blend Tobacco Vanille Eau de Parfum for $138.55 – $310.25, the Tom Ford Private Blend Oud Wood Eau de Parfum for $138.55 – $310.25, and the Tom Ford Private Blend Oud Wood All Over Body Spray for $67.15. You can also get the Tom Ford Ombré Leather Eau de Parfum for $119.00 – $165.75, the Tom Ford Private Blend Neroli Portofino All Over Body Spray for $67.15, and the Tom Ford Private Blend Oud Wood Eau de Parfum Decanter for $569.50.<br/>Finally, if you want a taste of opulence at an affordable price, turn to Dossier’s Powdery Tobacco. Our Tom Ford’s Tobacco Vanille dupe channels the spirits of tobacco leaves, vanilla, tonka bean, dry fruit, and cacao into a fragrance that permeates you with cherub-like exuberance. Taste the sweetness of budding florals and aromatic petals as this bouquet spices up your mood. Powdery Tobacco is your best choice if you wish to revel in the fruity and sweet honey facets of tobacco. It is your best chance for a quick escape into the alpine and subalpine ecosystems of Mount Rainier. Dip your finger into an intoxicating blend of opulence and charm."
+            }
+        },
+        {
+            "id": 24,
+            "name": "MUSKY GAIAC",
+            "categoryId": 3,
+            "description": "Le Labo Fragrances' Gaïac 10",
+            "price": 49,
+            "reviewsCount": 163,
+            "images": {
+                "productimg": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-gaiac-unisex-inspired-by-le-labo-fragrances-gaiac-10-182503.jpg?v=1628249832",
+                "productimghover": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-gaiac-unisex-inspired-by-le-labo-fragrances-gaiac-10-438988.jpg?v=1628248516",
+                "productimg2": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-gaiac-unisex-inspired-by-le-labo-fragrances-gaiac-10-963075.jpg?v=1628248248",
+                "productimg3": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-gaiac-unisex-inspired-by-le-labo-fragrances-gaiac-10-559304.jpg?v=1628248344",
+                "productimg4": "https://cdn.shopify.com/s/files/1/0047/4067/7699/products/musky-gaiac-unisex-inspired-by-le-labo-fragrances-gaiac-10-217690.jpg?v=1630494155"
+            },
+            "concentration": 18,
+            "gender": "Unisex",
+            "about": "Gaiac, a dense wood barely used in perfumery, has a very particular smoky and dry smell, with leathery tones.<br/>Musky Gaiac (inspired by Le Labo's Gaiac 10) is a tribute to this unique raw material. The composition enhances its natural smoky effect with incense, and its woody dryness with cedarwood. Then, modern musks wrap the fragrance to convey a smooth comfort, harmoniously balancing the initial sharpness.<br/>Minimalistic, assertive and poetic, as a Japanese Haïku, Musky Gaiac (our impression of Le Labo's Gaiac 10) is a very modern addictive statement, playing with natural skin odor, far away from sweet and loud perfumery structures.",
+            "smells": {
+                "top": "Olibanum Incense",
+                "middle": "Gaiac Wood, Cedarwood",
+                "base": "Musks"
+            },
+            "ingredients": "Benzoin Res, Cacao Abs, Cinnamon Bark Ess, Cistus Ess,Incense Ess, Tonka Bean Abs, Ginger Ess, Clove Bud Ess, Tolu Abs, Iso E Super, Vanilline, Ethyl Vanilline, Timbersilk, Bicyclononalactone, Heliotropine, Linalol, DMBC Butyrate, Benzyl Alcohol, Campher, Maltol, Eugenol, Dihydro Beta Ionone, Geraniol, Coumarin, Ambroxan, AcetyleugenolAmyris Ess, Guaiacwood Ess, Cedarwood ess, Incense Res, Helveltolide, Musk T, Iso E Super, Hydroxycitronellal, Cedramber, Florol, Exaltolide.",
+            "details": {
+                "title": "Dive into a blissful lake of infinite serenity surrounded by the Japanese forest floor",
+                "content": "Refreshingly lovely with an edge of clarity and candor, Le Labo’s Gaiac 10 Eau de Parfum is a true chef-d’oeuvre. It imbues you with a heavenly tranquillity and transforms you with heady allure and delectable class.<br/>Succumb to your innate desires as this floral permeates you with addictive top notes of spicy black pepper and guaiac wood. These smoothly blend with soft middle notes of opulent amber, white musk, and the depth of cedar wood to ground you in an earthy Japanese forest. The serene calmness you experience here is akin to meditating in the shades of Iriomote’s mangroves. Nothing compares to the calmness and cosiness this bouquet provides.<br/>An empyrean source of quietness and peace, Le Labo Gaiac 10 – Grassé New York fragrance invites you to relax around elegantly aureate Japanese blossom and the woody essential oils of oriental warmth and remedy.<br/>Enliven your senses and pamper yourself with this olfactory version of Shiraito Falls. It is a fun affair right from first spritz. Talk of a beatific fragrance so sweet and so sophisticated, it matches the gorgeousness of the Osaka cherry blossoms. This is the perfume for people who believe in themselves and are willing to go to any length to actualize their dreams. Le Labo Gaiac 10 is a scent of intelligence, flair, and self-assurance.<br/>Capitalizing primarily on the woody notes, this fragrance maintains an air of refreshing lightness and grounded strength that will make heads turn. It is the very essence of modest integrity – and one that humbly complements your inner and outer beauty. Plus, there’s a big bonus: the bottle. With a clean and methodical design, the bottle of the Le Labo Gaiac 10 Eau de Parfum perfectly suits the liquid it holds as it does not boast wealth or grandeur, but instead exudes calm modesty, meekness, and gentleness.<br/>Labo Gaiac is available for purchase on various ecommerce websites where it goes for $198.00 and $289.00 for the 50 ml and 100 ml Gaiac 10 respectively. Also, you can get the smaller Le Labo Gaiac 10 samples (between 1 ml and 9 ml) for $9.00-$62.00.<br/>If you want a scent that is as tranquil as the blue seas of the Kerama Islands, Dossier’s Musky Gaiac is the fragrance for you. Crafted with dense guaiac wood as the dominating aroma, our Le Labo Gaiac 10 dupe is a pleasurable leathery experience of Japanese haiku and signature minimalism. Enriched with sprinkles of subtle additions in olibanum and warm cedarwood, this floral brims with love and gives off a tasty fragrance comparable to the winds of Beppu Onsen. Undercurrents of warmth smoothly interlace to harmonize the sharpness of black pepper. Truly, there are few scents as timeless as Musky Gaiac: a gorgeous flower with a strange but comforting aroma. This is what you don if you wish to take a quick tour around the wedded rocks of Ise. Look no further if the magic of Yakushima Kagoshima tickles your fancy."
+            }
+        }
+    ],
+    "price": [29, 39, 49],
+    "reviews": [
+        {
+            "id": 1,
+            "productId": 1,
+            "username": "Minh Vu",
+            "title": "gdgdfgdgdfg",
+            "review": "efrwththtrjrtj",
+            "createdAt": "25/10/2022"
+        }
+    ],
+    "orders": []
+}

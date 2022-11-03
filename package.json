@@ -1,0 +1,22 @@
+{
+  "name": "fake-perfume-api",
+  "version": "1.0.0",
+  "description": "fake perfume api for react website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "fake-perfume-api"
+  ],
+  "author": "Ming",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
